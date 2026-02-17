@@ -47,7 +47,7 @@ for line in lines:
                 new_event = []
                 for e in event:
                     if e.startswith("SUMMARY:"):
-                        new_event.append(f"SUMMARY:{emoji}")
+                        new_event.append(f"SUMMARY:{emoji} {short}")
                     else:
                         new_event.append(e)
 
