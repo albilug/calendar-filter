@@ -17,49 +17,41 @@ output = []
 event = []
 inside = False
 
-def detect_course(text):
-    text = text.lower()
-    for key in COURSES:
-        if key in text:
-            return key
-    return None
-
 for line in lines:
 
     if line.startswith("BEGIN:VEVENT"):
         inside = True
         event = []
-        course_key = None
-        room = ""
-        professor = ""
+        description = ""
 
     if inside:
         event.append(line)
 
         if line.startswith("DESCRIPTION:"):
-            desc = line.replace("DESCRIPTION:", "")
-
-            course_key = detect_course(desc)
-
-            room_match = re.search(r"Aula\s+[A-Za-z0-9\. ]+", desc)
-            if room_match:
-                room = room_match.group(0)
-
-            prof_match = re.search(r"\((.*?)\)", desc)
-            if prof_match:
-                professor = prof_match.group(1)
-
-        if line.startswith("SUMMARY:") and course_key:
-            emoji, short = COURSES[course_key]
-            event[-1] = f"SUMMARY:{emoji} {short}"
-
-        if line.startswith("DESCRIPTION:") and course_key:
-            new_desc = " — ".join(filter(None, [room, professor]))
-            event[-1] = f"DESCRIPTION:{new_desc}"
+            description = line.lower()
 
         if line.startswith("END:VEVENT"):
             inside = False
-            output.extend(event)
+
+            course_found = None
+            for key in COURSES:
+                if key in description:
+                    course_found = key
+                    break
+
+            if course_found:
+                emoji, short = COURSES[course_found]
+
+                new_event = []
+                for e in event:
+                    if e.startswith("SUMMARY:"):
+                        new_event.append(f"SUMMARY:{emoji} {short}")
+                    else:
+                        new_event.append(e)
+
+                output.extend(new_event)
+            else:
+                output.extend(event)
 
     else:
         output.append(line)
@@ -67,4 +59,4 @@ for line in lines:
 with open("shared_calendar.ics", "w") as f:
     f.write("\n".join(output))
 
-print("Calendario condiviso aggiornato!")
+print("Shared calendar titles fixed!")
