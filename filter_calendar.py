@@ -9,15 +9,15 @@ FILTER_TEXT = "Diseases classification and mechanisms"
 # corsi da modificare
 TARGET_COURSES = {
     "data science in healthcare": {
-        "title": "Data Science in Healthcare",
+        "title": "Data Science",
         "emoji": "📊"
     },
     "foundations of medical research": {
-        "title": "Foundations of Medical Research",
+        "title": "Foundations",
         "emoji": "🔬"
     },
     "medical informatics": {
-        "title": "Medical Informatics",
+        "title": "Med Info",
         "emoji": "💻"
     }
 }
