@@ -1,6 +1,6 @@
 import requests
 
-URL = "https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796ccca$"
+URL = "https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796cccade61ccbdfa/learn.ics"
 
 COURSES = {
     "data science in healthcare": ("📊", "Data Science"),
@@ -21,39 +21,26 @@ for line in lines:
     if line.startswith("BEGIN:VEVENT"):
         inside = True
         event = []
-        course_found = None
-        skip_event = False
 
     if inside:
         event.append(line)
 
-        low = line.lower()
-
-        # individua il corso dal contenuto
-        for key in COURSES:
-            if key in low:
-                course_found = key
-
-        # elimina eventi aula e roba inutile
-        if line.startswith("SUMMARY:Aula"):
-            skip_event = True
-
-        if "hexagonal binned plot" in low:
-            skip_event = True
-
     if line.startswith("END:VEVENT"):
         inside = False
 
-        # se non è un corso valido → scarta
-        if skip_event or not course_found:
-            continue
+        text_block = " ".join(event).lower()
+        course_found = None
 
-        emoji, short = COURSES[course_found]
+        for key in COURSES:
+            if key in text_block:
+                course_found = key
+                break
 
         new_event = []
+
         for e in event:
-            if e.startswith("SUMMARY:"):
-                new_event.append(f"SUMMARY:{emoji} {short}")
+            if e.startswith("SUMMARY:") and course_found:
+                new_event.append(f"SUMMARY:{COURSES[course_found]}")
             else:
                 new_event.append(e)
 
@@ -65,4 +52,4 @@ for line in lines:
 with open("shared_calendar.ics", "w") as f:
     f.write("\n".join(output))
 
-print("Shared calendar cleaned and updated!")
+print("Shared calendar restored ✅")
