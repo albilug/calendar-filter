@@ -3,10 +3,10 @@ import re
 
 URL = "https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796cccade61ccbdfa/learn.ics"
 
-# corso da eliminare
+# corso da escludere dal calendario personale
 FILTER_TEXT = "Diseases classification and mechanisms"
 
-# corsi da modificare
+# corsi da abbreviare
 TARGET_COURSES = {
     "data science in healthcare": {
         "title": "Data Science",
@@ -19,86 +19,70 @@ TARGET_COURSES = {
     "medical informatics": {
         "title": "Med Info",
         "emoji": "💻"
+    },
+    "diseases classification and mechanisms": {
+        "title": "Diseases",
+        "emoji": "🦠"
     }
 }
+
+def clean_text(text):
+    return text.replace("\\n", " ").strip()
 
 response = requests.get(URL)
 lines = response.text.splitlines()
 
 filtered_lines = []
-event_block = []
 inside_event = False
+skip_event = False
+event_lines = []
 
 for line in lines:
 
     if line.startswith("BEGIN:VEVENT"):
         inside_event = True
-        event_block = []
+        skip_event = False
+        event_lines = []
 
     if inside_event:
-        event_block.append(line)
+        event_lines.append(line)
+
+        # titolo evento
+        if line.startswith("SUMMARY:"):
+            summary = line.replace("SUMMARY:", "").strip()
+            summary_lower = summary.lower()
+
+            # escludi corso diseases dal calendario personale
+            if FILTER_TEXT.lower() in summary_lower:
+                skip_event = True
+
+            for course, info in TARGET_COURSES.items():
+                if course in summary_lower:
+                    new_title = f"{info['emoji']} {info['title']}"
+                    event_lines[-1] = f"SUMMARY:{new_title}"
+
+        # descrizione → aula + docente
+        if line.startswith("DESCRIPTION:"):
+            desc = clean_text(line.replace("DESCRIPTION:", ""))
+
+            room_match = re.search(r"Aula\s+[A-Za-z0-9\. ]+", desc)
+            room = room_match.group(0) if room_match else ""
+
+            prof_match = re.search(r"\((.*?)\)", desc)
+            professor = prof_match.group(1) if prof_match else ""
+
+            new_desc = " — ".join(filter(None, [room, professor]))
+            event_lines[-1] = f"DESCRIPTION:{new_desc}"
+
+        if line.startswith("END:VEVENT"):
+            inside_event = False
+            if not skip_event:
+                filtered_lines.extend(event_lines)
+
     else:
         filtered_lines.append(line)
-
-    if line.startswith("END:VEVENT"):
-        inside_event = False
-        block_text = "\n".join(event_block).lower()
-
-        # elimina il corso indesiderato
-        if FILTER_TEXT.lower() in block_text:
-            continue
-
-        summary = ""
-        description = ""
-
-        for l in event_block:
-            if l.startswith("SUMMARY:"):
-                summary = l.replace("SUMMARY:", "").strip()
-            if l.startswith("DESCRIPTION:"):
-                description = l.replace("DESCRIPTION:", "").strip()
-
-        course_key = None
-        desc_lower = description.lower()
-
-        if "medical informatics" in desc_lower:
-            course_key = "medical informatics"
-
-        elif "foundations" in desc_lower:
-            course_key = "foundations of medical research"
-
-        elif "data science" in desc_lower:
-            course_key = "data science in healthcare"
-
-        if course_key:
-            course_info = TARGET_COURSES[course_key]
-
-            # trova docente tra parentesi
-            teacher = ""
-            match = re.search(r"\((.*?)\)", description)
-            if match:
-                teacher = match.group(1)
-
-            new_title = f"{course_info['emoji']} {course_info['title']}"
-
-            new_description = f"Aula: {summary}"
-            if teacher:
-                new_description += f"\\nDocente: {teacher}"
-
-            new_block = []
-            for l in event_block:
-                if l.startswith("SUMMARY:"):
-                    new_block.append("SUMMARY:" + new_title)
-                elif l.startswith("DESCRIPTION:"):
-                    new_block.append("DESCRIPTION:" + new_description)
-                else:
-                    new_block.append(l)
-
-            filtered_lines.extend(new_block)
-
-        else:
-            filtered_lines.extend(event_block)
 
 with open("filtered_calendar.ics", "w") as f:
     f.write("\n".join(filtered_lines))
 
-print("Calendario aggiornato con emoji e formattazione!")
+print("Calendario aggiornato con titoli brevi e formattazione!")
