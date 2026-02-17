@@ -3,10 +3,10 @@ import re
 SOURCE_FILE = "shared_calendar.ics"
 
 COURSES = {
-    "data_science.ics": ("📊 Data Science in Healthcare", "data science"),
-    "foundations.ics": ("🔬 Foundations of Medical Research", "foundations"),
-    "medical_informatics.ics": ("💻 Medical Informatics", "informatics"),
-    "diseases.ics": ("🦠 Diseases Classification and Mechanisms", "diseases"),
+    "data_science.ics": ("data science in healthcare", "📊 Data Science"),
+    "diseases.ics": ("diseases classification and mechanisms", "🦠 Diseases"),
+    "foundations.ics": ("foundations of medical research", "🔬 Foundations"),
+    "medical_informatics.ics": ("medical informatics", "💻 Med Info"),
 }
 
 with open(SOURCE_FILE, "r") as f:
@@ -28,20 +28,20 @@ for line in lines:
     if line.startswith("END:VEVENT"):
         block.append(line)
         inside_event = False
-
         text = "".join(block).lower()
 
-        for filename, (title, keyword) in COURSES.items():
+        for filename, (keyword, new_title) in COURSES.items():
             if keyword in text:
 
                 new_block = []
                 for l in block:
                     if l.startswith("SUMMARY:"):
-                        new_block.append("SUMMARY:" + title + "\n")
+                        new_block.append("SUMMARY:" + new_title + "\n")
                     else:
                         new_block.append(l)
 
                 events[filename].extend(new_block)
+
         continue
 
     if inside_event:
@@ -52,7 +52,7 @@ for line in lines:
         else:
             header.append(line)
 
-# scrittura file ICS validi
+# scrittura file
 for filename in COURSES:
     with open(filename, "w") as f:
         for h in header:
@@ -62,4 +62,4 @@ for filename in COURSES:
         for ft in footer:
             f.write(ft)
 
-print("Valid ICS calendars generated.")
+print("Single-course calendars generated with short titles!")
