@@ -151,48 +151,48 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260217T142022Z
+DTSTAMP:20260217T142834Z
 DTSTART;TZID=Europe/Rome:20260417T110000
 DTEND;TZID=Europe/Rome:20260417T130000
 SUMMARY:🔬 Foundations of Medical Research
 UID:_blackboard.data.calendar.CalendarEntry-_110156_1
-DESCRIPTION:Aula: Aula VIRT01\nDocente: BLANDI LORENZO
+DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T142022Z
+DTSTAMP:20260217T142834Z
 DTSTART;TZID=Europe/Rome:20260320T110000
 DTEND;TZID=Europe/Rome:20260320T130000
 SUMMARY:🔬 Foundations of Medical Research
 UID:_blackboard.data.calendar.CalendarEntry-_109742_1
-DESCRIPTION:Aula: Aula VIRT01\nDocente: BLANDI LORENZO
+DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T142022Z
+DTSTAMP:20260217T142834Z
 DTSTART;TZID=Europe/Rome:20260302T140000
 DTEND;TZID=Europe/Rome:20260302T160000
 SUMMARY:🔬 Foundations of Medical Research
 UID:_blackboard.data.calendar.CalendarEntry-_109454_1
-DESCRIPTION:Aula: Aula CATULLO\nDocente: VOLPE ALESSANDRO
+DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (VOLPE ALESSANDRO)
 LOCATION:DIBIT1 - CATULLO
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T142022Z
+DTSTAMP:20260217T142834Z
 DTSTART;TZID=Europe/Rome:20260306T110000
 DTEND;TZID=Europe/Rome:20260306T130000
 SUMMARY:🔬 Foundations of Medical Research
 UID:_blackboard.data.calendar.CalendarEntry-_109539_1
-DESCRIPTION:Aula: Aula CATULLO\nDocente: BLANDI LORENZO
+DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
 LOCATION:DIBIT1 - CATULLO
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T142022Z
+DTSTAMP:20260217T142834Z
 DTSTART;TZID=Europe/Rome:20260327T110000
 DTEND;TZID=Europe/Rome:20260327T130000
 SUMMARY:🔬 Foundations of Medical Research
 UID:_blackboard.data.calendar.CalendarEntry-_109864_1
-DESCRIPTION:Aula: Aula VIRT01\nDocente: BLANDI LORENZO
+DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 END:VCALENDAR
