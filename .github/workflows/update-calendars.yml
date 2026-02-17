@@ -1,0 +1,38 @@
+name: Update Calendars
+
+on:
+  schedule:
+    - cron: "30 8 * * *"
+    - cron: "30 13 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate personal calendar
+        run: python filter_calendar.py
+
+      - name: Generate shared calendar
+        run: python filter_calendar_shared.py
+
+      - name: Commit & push updates
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "bot@github.com"
+          git add *.ics
+          git commit -m "auto update calendars" || echo "No changes"
+          git push
