@@ -38,7 +38,9 @@ for line in lines:
                 if key in description:
                     course_found = key
                     break
-
+            # elimina eventi aula separati
+            if any(line.startswith("SUMMARY:Aula") for line in event):
+                continue
             if course_found:
                 emoji, short = COURSES[course_found]
 
