@@ -29,6 +29,9 @@ jobs:
       - name: Generate shared calendar
         run: python filter_calendar_shared.py
 
+      - name: Generate course calendars
+        run: python generate_course_calendars.py
+
       - name: Commit & push updates
         run: |
           git config user.name "calendar-bot"
