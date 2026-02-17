@@ -10,46 +10,56 @@ COURSES = {
 }
 
 response = requests.get(URL)
+
+if response.status_code != 200:
+    raise Exception("Blackboard calendar download failed")
+
 lines = response.text.splitlines()
 
 output = []
 event = []
-inside = False
+inside_event = False
 
 for line in lines:
 
     if line.startswith("BEGIN:VEVENT"):
-        inside = True
-        event = []
+        inside_event = True
+        event = [line]
+        continue
 
-    if inside:
+    if inside_event:
         event.append(line)
 
-    if line.startswith("END:VEVENT"):
-        inside = False
+        if line.startswith("END:VEVENT"):
+            inside_event = False
 
-        text_block = " ".join(event).lower()
-        course_found = None
+            text = " ".join(event).lower()
+            course_found = None
 
-        for key in COURSES:
-            if key in text_block:
-                course_found = key
-                break
+            for key in COURSES:
+                if key in text:
+                    course_found = key
+                    break
 
-        new_event = []
+            if course_found:
+                emoji, short = COURSES[course_found]
 
-        for e in event:
-            if e.startswith("SUMMARY:") and course_found:
-                new_event.append(f"SUMMARY:{COURSES[course_found]}")
+                new_event = []
+                for e in event:
+                    if e.startswith("SUMMARY:"):
+                        new_event.append(f"SUMMARY:{emoji}")
+                    else:
+                        new_event.append(e)
+
+                output.extend(new_event)
             else:
-                new_event.append(e)
+                output.extend(event)
 
-        output.extend(new_event)
+        continue
 
-    elif not inside:
-        output.append(line)
+    output.append(line)
 
 with open("shared_calendar.ics", "w") as f:
     f.write("\n".join(output))
 
-print("Shared calendar restored ✅")
+print("Shared calendar updated!")
