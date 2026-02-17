@@ -35,4 +35,5 @@ jobs:
           git config user.email "bot@github.com"
           git add *.ics
           git commit -m "auto update calendars" || echo "No changes"
+          git pull --rebase
           git push
