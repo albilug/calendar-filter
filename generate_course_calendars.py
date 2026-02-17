@@ -1,21 +1,20 @@
-import requests
 import re
 
-URL = "https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796cccade61ccbdfa/learn.ics"
+SOURCE_FILE = "shared_calendar.ics"
 
 COURSES = {
-    "data science": ("data_science.ics", "📊 Data Science in Healthcare"),
-    "foundations": ("foundations.ics", "🔬 Foundations of Medical Research"),
-    "medical informatics": ("medical_informatics.ics", "💻 Medical Informatatics"),
-    "diseases classification": ("diseases.ics", "🦠 Diseases Classification and Mechanisms"),
+    "data_science.ics": ("📊 Data Science in Healthcare", "data science"),
+    "foundations.ics": ("🔬 Foundations of Medical Research", "foundations"),
+    "medical_informatics.ics": ("💻 Medical Informatics", "informatics"),
+    "diseases.ics": ("🦠 Diseases Classification and Mechanisms", "diseases"),
 }
 
-response = requests.get(URL)
-lines = response.text.splitlines()
+with open(SOURCE_FILE, "r") as f:
+    lines = f.readlines()
 
-events = {key: [] for key in COURSES}
 header = []
 footer = []
+events = {k: [] for k in COURSES}
 inside_event = False
 block = []
 
@@ -23,55 +22,44 @@ for line in lines:
 
     if line.startswith("BEGIN:VEVENT"):
         inside_event = True
-        block = []
-
-    if inside_event:
-        block.append(line)
-    else:
-        header.append(line)
+        block = [line]
+        continue
 
     if line.startswith("END:VEVENT"):
+        block.append(line)
         inside_event = False
 
-        summary = ""
-        description = ""
+        text = "".join(block).lower()
 
-        for l in block:
-            if l.startswith("SUMMARY:"):
-                summary = l.replace("SUMMARY:", "")
-            if l.startswith("DESCRIPTION:"):
-                description = l.replace("DESCRIPTION:", "")
-
-        desc_lower = description.lower()
-
-        for key in COURSES:
-            if key in desc_lower:
-
-                filename, title = COURSES[key]
-
-                teacher = ""
-                match = re.search(r"\((.*?)\)", description)
-                if match:
-                    teacher = match.group(1)
+        for filename, (title, keyword) in COURSES.items():
+            if keyword in text:
 
                 new_block = []
                 for l in block:
                     if l.startswith("SUMMARY:"):
-                        new_block.append("SUMMARY:" + title)
-                    elif l.startswith("DESCRIPTION:"):
-                        desc = f"Aula: {summary}"
-                        if teacher:
-                            desc += f"\\nDocente: {teacher}"
-                        new_block.append("DESCRIPTION:" + desc)
+                        new_block.append("SUMMARY:" + title + "\n")
                     else:
                         new_block.append(l)
 
-                events[key].extend(new_block)
+                events[filename].extend(new_block)
+        continue
 
-# scrive i file
-for key, (filename, title) in COURSES.items():
+    if inside_event:
+        block.append(line)
+    else:
+        if line.startswith("END:VCALENDAR"):
+            footer.append(line)
+        else:
+            header.append(line)
+
+# scrittura file ICS validi
+for filename in COURSES:
     with open(filename, "w") as f:
         for h in header:
-            f.write(h + "\n")
-        for line in events[key]:
-            f.write(line + "\n")
+            f.write(h)
+        for ev in events[filename]:
+            f.write(ev)
+        for ft in footer:
+            f.write(ft)
+
+print("Valid ICS calendars generated.")
