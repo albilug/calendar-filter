@@ -151,7 +151,16 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
+DTSTAMP:20260225T203346Z
+DTSTART;TZID=Europe/Rome:20260327T110000
+DTEND;TZID=Europe/Rome:20260327T130000
+SUMMARY:🔬 Foundations
+UID:_blackboard.data.calendar.CalendarEntry-_117675_1
+DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
+LOCATION:AULE VIRTUALI - VIRT01
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T203346Z
 DTSTART;TZID=Europe/Rome:20260417T110000
 DTEND;TZID=Europe/Rome:20260417T130000
 SUMMARY:🔬 Foundations
@@ -160,7 +169,7 @@ DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluatio
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
+DTSTAMP:20260225T203346Z
 DTSTART;TZID=Europe/Rome:20260424T090000
 DTEND;TZID=Europe/Rome:20260424T110000
 SUMMARY:🔬 Foundations
@@ -169,16 +178,7 @@ DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluatio
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
-DTSTART;TZID=Europe/Rome:20260320T110000
-DTEND;TZID=Europe/Rome:20260320T130000
-SUMMARY:🔬 Foundations
-UID:_blackboard.data.calendar.CalendarEntry-_109742_1
-DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
-LOCATION:AULE VIRTUALI - VIRT01
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
+DTSTAMP:20260225T203346Z
 DTSTART;TZID=Europe/Rome:20260302T140000
 DTEND;TZID=Europe/Rome:20260302T160000
 SUMMARY:🔬 Foundations
@@ -187,16 +187,16 @@ DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluatio
 LOCATION:DIBIT1 - CATULLO
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
-DTSTART;TZID=Europe/Rome:20260306T110000
-DTEND;TZID=Europe/Rome:20260306T130000
+DTSTAMP:20260225T203346Z
+DTSTART;TZID=Europe/Rome:20260320T110000
+DTEND;TZID=Europe/Rome:20260320T130000
 SUMMARY:🔬 Foundations
-UID:_blackboard.data.calendar.CalendarEntry-_110214_1
+UID:_blackboard.data.calendar.CalendarEntry-_117652_1
 DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
+DTSTAMP:20260225T203346Z
 DTSTART;TZID=Europe/Rome:20260424T110000
 DTEND;TZID=Europe/Rome:20260424T130000
 SUMMARY:🔬 Foundations
@@ -205,11 +205,11 @@ DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluatio
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T143242Z
-DTSTART;TZID=Europe/Rome:20260327T110000
-DTEND;TZID=Europe/Rome:20260327T130000
+DTSTAMP:20260225T203346Z
+DTSTART;TZID=Europe/Rome:20260306T110000
+DTEND;TZID=Europe/Rome:20260306T130000
 SUMMARY:🔬 Foundations
-UID:_blackboard.data.calendar.CalendarEntry-_109864_1
+UID:_blackboard.data.calendar.CalendarEntry-_117639_1
 DESCRIPTION:Foundations of medical research: epidemiology\, healthcare evaluation\, clinical trials\, ethics\, and IP protection (BLANDI LORENZO)
 LOCATION:AULE VIRTUALI - VIRT01
 END:VEVENT
