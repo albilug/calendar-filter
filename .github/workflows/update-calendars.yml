@@ -2,9 +2,7 @@ name: Update Calendars
 
 on:
   schedule:
-    - cron: "30 8 * * *"
-    - cron: "30 13 * * *"
-    - cron: "0 20 * * *"
+    - cron: "0 13 * * *"
   workflow_dispatch:
 
 jobs:

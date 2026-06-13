@@ -1,4 +1,4 @@
-import requests
+from unisr_fetch import fetch_ics
 
 URL = "https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796cccade61ccbdfa/learn.ics"
 
@@ -9,12 +9,7 @@ COURSES = {
     "diseases classification and mechanisms": ("🦠", "Diseases"),
 }
 
-response = requests.get(URL)
-
-if response.status_code != 200:
-    raise Exception("Blackboard calendar download failed")
-
-lines = response.text.splitlines()
+lines = fetch_ics(URL).splitlines()
 
 output = []
 event = []

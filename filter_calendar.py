@@ -1,5 +1,6 @@
-import requests
 import re
+
+from unisr_fetch import fetch_ics
 
 URL = "https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796cccade61ccbdfa/learn.ics"
 
@@ -12,8 +13,7 @@ COURSES = {
     "diseases classification and mechanisms": ("🦠", "Diseases"),
 }
 
-response = requests.get(URL)
-lines = response.text.splitlines()
+lines = fetch_ics(URL).splitlines()
 
 output = []
 event = []
