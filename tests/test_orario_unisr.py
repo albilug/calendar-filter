@@ -36,17 +36,17 @@ class OrarioTests(unittest.TestCase):
             (root / 'provisional_events.json').write_text('INVALID JSON')
             (root / 'calendar_config.json').write_text(json.dumps({'start_date':'2026-09-23','use_provisional_pdf':False}))
             (root / 'data' / 'orario_cache.json').write_text(json.dumps({'days': {'2026-10-26': {'events':[row()]}}}))
-            source = root / 'source.ics'
+            source = root / 'data' / 'blackboard_cache.ics'
             source.write_bytes(feed().to_ical())
-            generate_all(root=root, source_path=source, orario_cache_only=True)
+            generate_all(root=root, orario_cache_only=True)
             events = Calendar.from_ical((root / 'shared_calendar.ics').read_bytes()).walk('VEVENT')
             self.assertEqual(len(events), 1)
             self.assertEqual(events[0]['X-UNISR-SOURCE'], 'ORARIO')
             self.assertFalse(any(e.get('STATUS') == 'TENTATIVE' for e in events))
             self.assertFalse(json.loads((root/'data'/'sync_report.json').read_text())['pdf_enabled'])
 
-    @patch('unisr_calendar.calendar_sync.fetch_ics', side_effect=SystemExit('offline'))
-    def test_blackboard_outage_still_generates_orario(self, fetch):
+    @patch('requests.sessions.Session.request', side_effect=AssertionError('Unexpected HTTP request'))
+    def test_offline_generation_never_contacts_blackboard(self, fetch):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
             (root / 'data').mkdir()
@@ -55,7 +55,8 @@ class OrarioTests(unittest.TestCase):
             events = Calendar.from_ical((root / 'shared_calendar.ics').read_bytes()).walk('VEVENT')
             self.assertEqual(len(events), 1)
             self.assertEqual(events[0]['X-UNISR-SOURCE'], 'ORARIO')
-            self.assertEqual(json.loads((root/'data'/'sync_report.json').read_text())['blackboard_error'], 'offline')
+            self.assertFalse(json.loads((root/'data'/'sync_report.json').read_text())['blackboard_enabled'])
+            fetch.assert_not_called()
 
     def test_room_and_priority_over_bb_and_pdf(self):
         source = relevant_source(feed(), date(2026, 9, 23))

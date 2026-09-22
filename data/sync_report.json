@@ -371,33 +371,18 @@
   "missing_previously_matched": [],
   "provisional": [],
   "orario": {
+    "mode": "cache_only",
     "from": "2026-09-23",
     "through": "2026-12-21",
-    "failures": [],
-    "refreshed_days": 90
+    "failures": []
   },
-  "orario_over_blackboard": [
-    {
-      "orario_uid": "_blackboard.data.calendar.CalendarEntry-_125056_1",
-      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125056_1"
-    },
-    {
-      "orario_uid": "_blackboard.data.calendar.CalendarEntry-_125180_1",
-      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125180_1"
-    },
-    {
-      "orario_uid": "_blackboard.data.calendar.CalendarEntry-_125181_1",
-      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125181_1"
-    }
-  ],
+  "orario_over_blackboard": [],
   "blackboard_only": [],
   "priority": [
-    "ORARIO",
-    "BLACKBOARD"
+    "ORARIO"
   ],
   "pdf_enabled": false,
-  "blackboard_error": null,
-  "override_notes": {},
+  "blackboard_enabled": false,
   "counts": {
     "seminars": {},
     "machine_learning": {

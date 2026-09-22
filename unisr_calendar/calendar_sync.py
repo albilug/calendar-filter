@@ -1,4 +1,4 @@
-"""Generate UniSR calendars: Orario takes precedence over Blackboard."""
+"""Generate UniSR calendars using Orario UniSR as the only source."""
 import argparse
 from collections import Counter
 from copy import deepcopy
@@ -11,11 +11,9 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar, Event
 from courses import COURSES, detect_course
-from .unisr_fetch import fetch_ics
 from .orario_unisr import ACTIVE_COURSES, BASE_URL, excluded, fetch_range, is_seminar, params
 
 ROOT = Path(__file__).resolve().parent.parent
-URL = 'https://bb.unisr.it/webapps/calendar/calendarFeed/af56165b8375449796cccade61ccbdfa/learn.ics'
 ROME = ZoneInfo('Europe/Rome')
 START_DATE = date(2026, 9, 23)
 
@@ -356,31 +354,17 @@ def atomic_write(path, content):
     temporary.replace(path)
 
 
-def generate_all(root=ROOT, source_path=None, orario_cache_only=False):
-    blackboard_error = None
-    try:
-        source = Calendar.from_ical(Path(source_path).read_bytes() if source_path else fetch_ics(URL))
-    except SystemExit as exc:
-        blackboard_error = str(exc)
-        cached_bb = root / 'data' / 'blackboard_cache.ics'
-        if cached_bb.exists():
-            source = Calendar.from_ical(cached_bb.read_bytes())
-        else:
-            source = Calendar()
-            source.add('VERSION', '2.0')
-            source.add('PRODID', '-//UniSR calendar-filter//EN')
+def generate_all(root=ROOT, orario_cache_only=False):
+    source = Calendar()
+    source.add('VERSION', '2.0')
+    source.add('PRODID', '-//UniSR calendar-filter//Orario UniSR//IT')
+    source.add('CALSCALE', 'GREGORIAN')
     state = load_json(root / 'data' / 'sync_state.json', {})
-    overrides = load_json(root / 'archive' / 'pdf' / 'sync_overrides.json', {})
     config = load_json(root / 'calendar_config.json', {})
-    use_pdf = config.get('use_provisional_pdf', False)
-    provisional = (load_json(root / 'archive' / 'pdf' / 'provisional_events.json', {'source': '', 'sessions': []})
-                   if use_pdf else {'source': '', 'sessions': []})
-    if not use_pdf:
-        overrides = {}
+    provisional = {'source': '', 'sessions': []}
     start = date.fromisoformat(config.get('start_date', START_DATE.isoformat()))
     today = datetime.now(ROME).date()
-    last_pdf = max((date.fromisoformat(s['date']) for s in provisional['sessions']), default=start)
-    through = max(last_pdf, today + timedelta(days=config.get('lookahead_days', 90)))
+    through = max(start, today + timedelta(days=config.get('lookahead_days', 90)))
     cache = load_json(root / 'data' / 'orario_cache.json', {})
     if orario_cache_only:
         rows = [row for day, value in cache.get('days', {}).items()
@@ -388,12 +372,9 @@ def generate_all(root=ROOT, source_path=None, orario_cache_only=False):
         orario_report = {'mode': 'cache_only', 'from': start.isoformat(), 'through': through.isoformat(), 'failures': []}
     else:
         rows, cache, orario_report = fetch_range(start, through, cache, today=today, progress=True)
-    source = relevant_source(source, start)
-    blackboard_snapshot = calendar_bytes(source, source.walk('VEVENT'))
     source, state, replaced = prioritize_orario(source, rows, state)
-    events, state, report = merge(source, provisional, state, overrides)
-    # Keep the complete PDF in memory for persisted associations/overrides, but
-    # publish only the requested date range and selected courses/seminars.
+    events, state, report = merge(source, provisional, state)
+    # Retain historical UID associations, but publish only current Orario rows.
     events = [e for e in events if (span(e)[0].date() if span(e) else e.decoded('DTSTART')) >= start
               and event_course(e) in ACTIVE_COURSES | {'seminars'}
               and not excluded(str(e.get('SUMMARY', '')) + ' ' + str(e.get('DESCRIPTION', '')))]
@@ -403,13 +384,15 @@ def generate_all(root=ROOT, source_path=None, orario_cache_only=False):
     report['orario'] = orario_report
     report['orario_over_blackboard'] = replaced
     report['blackboard_only'] = [event_key(e) for e in events if e.get('X-UNISR-SOURCE') == 'BLACKBOARD']
-    report['priority'] = ['ORARIO', 'BLACKBOARD'] + (['PDF'] if use_pdf else [])
-    report['pdf_enabled'] = use_pdf
-    report['blackboard_error'] = blackboard_error
-    report['override_notes'] = overrides.get('notes', {})
+    report['priority'] = ['ORARIO']
+    report['pdf_enabled'] = False
+    report['blackboard_enabled'] = False
     report['missing_previously_matched'] = [key for key in report['missing_previously_matched']
         if any(date.fromisoformat(covered[0][:10]) >= start
                for covered in state['links'][key]['coverage'].values())]
+    for event in events:
+        for key in ('DTSTART', 'DTEND'):
+            replace(event, key, event.decoded(key).astimezone(timezone.utc))
     revision(events, state)
     files = {'shared_calendar.ics': events,
              'filtered_calendar.ics': events}
@@ -427,8 +410,6 @@ def generate_all(root=ROOT, source_path=None, orario_cache_only=False):
         atomic_write(root / 'calendars' / name, content)
         if name in ('shared_calendar.ics', 'filtered_calendar.ics'):
             atomic_write(root / name, content)  # Preserve existing subscription URLs.
-    if blackboard_error is None:
-        atomic_write(root / 'data' / 'blackboard_cache.ics', blackboard_snapshot)
     for name, data in [('sync_state.json', state), ('sync_report.json', report), ('orario_cache.json', cache)]:
         atomic_write(root / 'data' / name, (json.dumps(data, ensure_ascii=False, indent=2) + '\n').encode())
     print(f"Calendari aggiornati: {len(report['matched'])} eventi abbinati, {len(report['provisional'])} provvisori, {len(report['review'])} da verificare.")
@@ -436,7 +417,6 @@ def generate_all(root=ROOT, source_path=None, orario_cache_only=False):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--source', help='Use a local Blackboard ICS for an offline run')
     parser.add_argument('--orario-cache-only', action='store_true', help='Use the saved Orario snapshot without HTTP requests (verification only)')
     args = parser.parse_args()
-    generate_all(source_path=args.source, orario_cache_only=args.orario_cache_only)
+    generate_all(orario_cache_only=args.orario_cache_only)

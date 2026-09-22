@@ -1,7 +1,7 @@
 # Calendari Health Informatics · Secondo anno
 
-Calendari per Apple Calendar aggiornati automaticamente da **Orario UniSR**, con
-**Blackboard** come fonte secondaria. Il PDF è escluso. Sono inclusi corsi e seminari
+Calendari per Apple Calendar aggiornati automaticamente solo da **Orario UniSR**.
+Blackboard e PDF sono esclusi. Sono inclusi corsi e seminari
 dal **23 settembre 2026**; esami e festività sono esclusi.
 
 ## Abbonamenti Apple Calendar
@@ -44,7 +44,7 @@ archive/pdf/           vecchia importazione PDF, non utilizzata
 
 I due ICS nella radice sono copie compatibili con i precedenti abbonamenti.
 Non cancellare `data/sync_state.json`: conserva l'identità degli eventi pubblicati.
-`data/blackboard_cache.ics` è una copia tecnica filtrata, non un abbonamento.
+Gli URL degli abbonamenti restano invariati anche dopo il cambio della fonte.
 
 ## Esecuzione locale
 
@@ -62,36 +62,31 @@ Gli orari pianificati possono subire ritardi del servizio GitHub.
 
 ## Regole di sincronizzazione
 
-- Orario UniSR è letto con i filtri Health Informatics (`CDS_ID=10283`), anno 2.
+- Unica fonte: Orario UniSR, con i filtri Health Informatics (`CDS_ID=10283`), anno 2.
   Ogni risposta è verificata per data e filtri prima di leggere le lezioni.
-- Orario prevale su Blackboard per data, orario, aula e docente degli eventi abbinati.
-  Blackboard aggiunge eventi pertinenti non trovati sul sito.
-- Il confronto usa corso, giorno e sovrapposizione. Una sola lezione per corso/giorno
-  in entrambe le fonti è abbinata anche se cambia orario. Con più lezioni vengono
-  sostituite solo le porzioni sovrapposte.
-- Seminari/workshop mantengono il titolo completo. Sul sito devono appartenere al
-  corso di laurea e anno selezionati; su Blackboard provengono dal feed personale.
-- Il sito non espone ID stabili delle prenotazioni. Spostamenti tra giorni diversi
-  potrebbero non essere riconosciuti automaticamente: verificare `blackboard_only`
-  in `data/sync_report.json` per possibili vecchie date o aggiunte.
-- Una pagina vuota non dimostra una cancellazione di eventi di Blackboard.
-- Se una fonte non risponde si usa la sua ultima copia valida, segnalando il
-  problema nel report. Le copie potrebbero contenere dati superati.
-- Gli UID sono mantenuti e `SEQUENCE` aumenta solo quando cambia un evento.
+- Date, orari, aule e docenti provengono esclusivamente dal sito. Non vengono più
+  consultati Blackboard, la sua cache o il PDF, neppure come fonti alternative.
+- Seminari e workshop mantengono il titolo completo e devono appartenere al corso
+  di laurea e anno selezionati. Festività ed esami restano esclusi.
+- In caso di errore del sito si conserva l'ultima risposta valida di Orario per
+  quel giorno, segnalando il problema in `data/sync_report.json`.
+- Una risposta valida senza lezioni rimuove dal calendario quelle precedenti per
+  quel giorno; la cache viene aggiornata. Non vengono aggiunti eventi provvisori.
+- Gli identificativi pubblicati sono mantenuti. Le vecchie associazioni salvate
+  conservano solo l'identità ICS, senza importare contenuti da altre fonti.
+- Gli orari sono esportati in UTC; Apple Calendar li mostra nel fuso locale,
+  rispettando il cambio fra ora legale e solare.
 
 `calendar_config.json` imposta il controllo fino a oggi + `lookahead_days` (90).
 L'orizzonte avanza automaticamente. Sono riletti tutti i giorni futuri e gli ultimi
 sette giorni; lo storico più vecchio viene dalla cache. Per ricontrollare una data
 storica eliminare solo quella voce da `data/orario_cache.json` e rieseguire.
 
-Il PDF resta disabilitato (`use_provisional_pdf: false`); i suoi vecchi abbinamenti
-possono conservare gli UID, ma non producono date né eventi provvisori.
-
 ## Verifica offline
 
 ```sh
 python -m unittest discover -s tests -v
-python sync_calendars.py --source data/blackboard_cache.ics --orario-cache-only
+python sync_calendars.py --orario-cache-only
 ```
 
 [Guida Apple agli abbonamenti iCloud](https://support.apple.com/en-my/102301).
