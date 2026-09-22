@@ -1,0 +1,909 @@
+{
+  "days": {
+    "2026-09-23": {
+      "events": [
+        {
+          "date": "2026-09-23",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:38.690724+00:00"
+    },
+    "2026-09-24": {
+      "events": [
+        {
+          "date": "2026-09-24",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Wearable devices (docente: ANGELUCCI ALESSANDRA)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-09-24",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: PALMISANO ANNA)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:39.928409+00:00"
+    },
+    "2026-09-25": {
+      "events": [],
+      "checked": "2026-09-22T09:13:41.307312+00:00"
+    },
+    "2026-09-26": {
+      "events": [],
+      "checked": "2026-09-22T09:13:42.736977+00:00"
+    },
+    "2026-09-27": {
+      "events": [],
+      "checked": "2026-09-22T09:13:43.831168+00:00"
+    },
+    "2026-09-28": {
+      "events": [
+        {
+          "date": "2026-09-28",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-09-28",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:44.377109+00:00"
+    },
+    "2026-09-29": {
+      "events": [
+        {
+          "date": "2026-09-29",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Wearable devices (docente: ANGELUCCI ALESSANDRA)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:45.008262+00:00"
+    },
+    "2026-09-30": {
+      "events": [
+        {
+          "date": "2026-09-30",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:45.580496+00:00"
+    },
+    "2026-10-01": {
+      "events": [],
+      "checked": "2026-09-22T09:13:46.640797+00:00"
+    },
+    "2026-10-02": {
+      "events": [],
+      "checked": "2026-09-22T09:13:47.817935+00:00"
+    },
+    "2026-10-03": {
+      "events": [],
+      "checked": "2026-09-22T09:13:48.905190+00:00"
+    },
+    "2026-10-04": {
+      "events": [],
+      "checked": "2026-09-22T09:13:49.472279+00:00"
+    },
+    "2026-10-05": {
+      "events": [
+        {
+          "date": "2026-10-05",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:49.955443+00:00"
+    },
+    "2026-10-06": {
+      "events": [
+        {
+          "date": "2026-10-06",
+          "start": "11:00",
+          "end": "13:00",
+          "title": "Images in healthcare - radiomics (docente: ESPOSITO ANTONIO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-06",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: TRAVERSO ALBERTO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:50.668489+00:00"
+    },
+    "2026-10-07": {
+      "events": [
+        {
+          "date": "2026-10-07",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-07",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:52.027280+00:00"
+    },
+    "2026-10-08": {
+      "events": [
+        {
+          "date": "2026-10-08",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:53.150775+00:00"
+    },
+    "2026-10-09": {
+      "events": [
+        {
+          "date": "2026-10-09",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "AULE VIRTUALI - Aula VIRT01 (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:54.165383+00:00"
+    },
+    "2026-10-10": {
+      "events": [],
+      "checked": "2026-09-22T09:13:55.233404+00:00"
+    },
+    "2026-10-11": {
+      "events": [],
+      "checked": "2026-09-22T09:13:56.361929+00:00"
+    },
+    "2026-10-12": {
+      "events": [
+        {
+          "date": "2026-10-12",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-12",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-12",
+          "start": "16:00",
+          "end": "18:00",
+          "title": "Images in healthcare - radiomics (docente: TRAVERSO ALBERTO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:13:57.558370+00:00"
+    },
+    "2026-10-13": {
+      "events": [],
+      "checked": "2026-09-22T09:13:58.526575+00:00"
+    },
+    "2026-10-14": {
+      "events": [
+        {
+          "date": "2026-10-14",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:00.091857+00:00"
+    },
+    "2026-10-15": {
+      "events": [
+        {
+          "date": "2026-10-15",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Wearable devices (docente: ANGELUCCI ALESSANDRA)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:01.370538+00:00"
+    },
+    "2026-10-16": {
+      "events": [],
+      "checked": "2026-09-22T09:14:03.001064+00:00"
+    },
+    "2026-10-17": {
+      "events": [],
+      "checked": "2026-09-22T09:14:04.300593+00:00"
+    },
+    "2026-10-18": {
+      "events": [],
+      "checked": "2026-09-22T09:14:04.841224+00:00"
+    },
+    "2026-10-19": {
+      "events": [
+        {
+          "date": "2026-10-19",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "16:00",
+          "end": "18:00",
+          "title": "Images in healthcare - radiomics (docente: TRAVERSO ALBERTO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:05.979010+00:00"
+    },
+    "2026-10-20": {
+      "events": [
+        {
+          "date": "2026-10-20",
+          "start": "11:00",
+          "end": "13:00",
+          "title": "Images in healthcare - radiomics (docente: CASTELLANO ANTONELLA)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:07.442479+00:00"
+    },
+    "2026-10-21": {
+      "events": [
+        {
+          "date": "2026-10-21",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:08.742908+00:00"
+    },
+    "2026-10-22": {
+      "events": [
+        {
+          "date": "2026-10-22",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-22",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: CHITI)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:09.564831+00:00"
+    },
+    "2026-10-23": {
+      "events": [],
+      "checked": "2026-09-22T09:14:10.007732+00:00"
+    },
+    "2026-10-24": {
+      "events": [],
+      "checked": "2026-09-22T09:14:10.444114+00:00"
+    },
+    "2026-10-25": {
+      "events": [],
+      "checked": "2026-09-22T09:14:11.506289+00:00"
+    },
+    "2026-10-26": {
+      "events": [
+        {
+          "date": "2026-10-26",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-26",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: ANGELUCCI ALESSANDRA)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:12.707545+00:00"
+    },
+    "2026-10-27": {
+      "events": [
+        {
+          "date": "2026-10-27",
+          "start": "11:00",
+          "end": "13:00",
+          "title": "Images in healthcare - radiomics (docente: DI MUZIO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-27",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: TRAVERSO ALBERTO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:14.029443+00:00"
+    },
+    "2026-10-28": {
+      "events": [
+        {
+          "date": "2026-10-28",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-28",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: MAZZA DAVIDE)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:15.127668+00:00"
+    },
+    "2026-10-29": {
+      "events": [
+        {
+          "date": "2026-10-29",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-10-29",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: MAZZA DAVIDE)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:16.159003+00:00"
+    },
+    "2026-10-30": {
+      "events": [],
+      "checked": "2026-09-22T09:14:17.632922+00:00"
+    },
+    "2026-10-31": {
+      "events": [],
+      "checked": "2026-09-22T09:14:18.879143+00:00"
+    },
+    "2026-11-01": {
+      "events": [],
+      "checked": "2026-09-22T09:14:19.707349+00:00"
+    },
+    "2026-11-02": {
+      "events": [
+        {
+          "date": "2026-11-02",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-02",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:20.766518+00:00"
+    },
+    "2026-11-03": {
+      "events": [],
+      "checked": "2026-09-22T09:14:22.400839+00:00"
+    },
+    "2026-11-04": {
+      "events": [
+        {
+          "date": "2026-11-04",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-04",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:23.639275+00:00"
+    },
+    "2026-11-05": {
+      "events": [
+        {
+          "date": "2026-11-05",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-05",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Images in healthcare - radiomics (docente: CITTARO)",
+          "course": "radiomics",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:24.428356+00:00"
+    },
+    "2026-11-06": {
+      "events": [],
+      "checked": "2026-09-22T09:14:24.883837+00:00"
+    },
+    "2026-11-07": {
+      "events": [],
+      "checked": "2026-09-22T09:14:25.275305+00:00"
+    },
+    "2026-11-08": {
+      "events": [],
+      "checked": "2026-09-22T09:14:26.284852+00:00"
+    },
+    "2026-11-09": {
+      "events": [
+        {
+          "date": "2026-11-09",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-09",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:27.370584+00:00"
+    },
+    "2026-11-10": {
+      "events": [],
+      "checked": "2026-09-22T09:14:28.423216+00:00"
+    },
+    "2026-11-11": {
+      "events": [
+        {
+          "date": "2026-11-11",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-11",
+          "start": "14:00",
+          "end": "18:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:29.455681+00:00"
+    },
+    "2026-11-12": {
+      "events": [
+        {
+          "date": "2026-11-12",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-12",
+          "start": "14:00",
+          "end": "18:00",
+          "title": "Wearable devices (docente: PERRICONE ALESSANDRO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:29.933363+00:00"
+    },
+    "2026-11-13": {
+      "events": [],
+      "checked": "2026-09-22T09:14:30.364167+00:00"
+    },
+    "2026-11-14": {
+      "events": [],
+      "checked": "2026-09-22T09:14:31.397141+00:00"
+    },
+    "2026-11-15": {
+      "events": [],
+      "checked": "2026-09-22T09:14:32.653582+00:00"
+    },
+    "2026-11-16": {
+      "events": [
+        {
+          "date": "2026-11-16",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-16",
+          "start": "14:00",
+          "end": "18:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:33.851457+00:00"
+    },
+    "2026-11-17": {
+      "events": [],
+      "checked": "2026-09-22T09:14:34.910675+00:00"
+    },
+    "2026-11-18": {
+      "events": [
+        {
+          "date": "2026-11-18",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:35.856637+00:00"
+    },
+    "2026-11-19": {
+      "events": [
+        {
+          "date": "2026-11-19",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-19",
+          "start": "14:00",
+          "end": "18:00",
+          "title": "Wearable devices (docente: PERRICONE ALESSANDRO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:37.262931+00:00"
+    },
+    "2026-11-20": {
+      "events": [],
+      "checked": "2026-09-22T09:14:38.380106+00:00"
+    },
+    "2026-11-21": {
+      "events": [],
+      "checked": "2026-09-22T09:14:39.823316+00:00"
+    },
+    "2026-11-22": {
+      "events": [],
+      "checked": "2026-09-22T09:14:41.288609+00:00"
+    },
+    "2026-11-23": {
+      "events": [
+        {
+          "date": "2026-11-23",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:42.503997+00:00"
+    },
+    "2026-11-24": {
+      "events": [],
+      "checked": "2026-09-22T09:14:43.686506+00:00"
+    },
+    "2026-11-25": {
+      "events": [
+        {
+          "date": "2026-11-25",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        },
+        {
+          "date": "2026-11-25",
+          "start": "14:00",
+          "end": "18:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:44.558189+00:00"
+    },
+    "2026-11-26": {
+      "events": [
+        {
+          "date": "2026-11-26",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:44.943978+00:00"
+    },
+    "2026-11-27": {
+      "events": [],
+      "checked": "2026-09-22T09:14:45.422308+00:00"
+    },
+    "2026-11-28": {
+      "events": [],
+      "checked": "2026-09-22T09:14:46.954700+00:00"
+    },
+    "2026-11-29": {
+      "events": [],
+      "checked": "2026-09-22T09:14:48.320586+00:00"
+    },
+    "2026-11-30": {
+      "events": [
+        {
+          "date": "2026-11-30",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:49.430508+00:00"
+    },
+    "2026-12-01": {
+      "events": [],
+      "checked": "2026-09-22T09:14:50.005057+00:00"
+    },
+    "2026-12-02": {
+      "events": [
+        {
+          "date": "2026-12-02",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Wearable devices (docente: CONSOLO FILIPPO)",
+          "course": "wearable_devices",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:50.479335+00:00"
+    },
+    "2026-12-03": {
+      "events": [
+        {
+          "date": "2026-12-03",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:51.701378+00:00"
+    },
+    "2026-12-04": {
+      "events": [],
+      "checked": "2026-09-22T09:14:53.321601+00:00"
+    },
+    "2026-12-05": {
+      "events": [],
+      "checked": "2026-09-22T09:14:54.074677+00:00"
+    },
+    "2026-12-06": {
+      "events": [],
+      "checked": "2026-09-22T09:14:55.343134+00:00"
+    },
+    "2026-12-07": {
+      "events": [],
+      "checked": "2026-09-22T09:14:56.805041+00:00"
+    },
+    "2026-12-08": {
+      "events": [],
+      "checked": "2026-09-22T09:14:58.206927+00:00"
+    },
+    "2026-12-09": {
+      "events": [
+        {
+          "date": "2026-12-09",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:14:59.368366+00:00"
+    },
+    "2026-12-10": {
+      "events": [
+        {
+          "date": "2026-12-10",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:15:00.859027+00:00"
+    },
+    "2026-12-11": {
+      "events": [],
+      "checked": "2026-09-22T09:15:02.114266+00:00"
+    },
+    "2026-12-12": {
+      "events": [],
+      "checked": "2026-09-22T09:15:03.107932+00:00"
+    },
+    "2026-12-13": {
+      "events": [],
+      "checked": "2026-09-22T09:15:03.983576+00:00"
+    },
+    "2026-12-14": {
+      "events": [
+        {
+          "date": "2026-12-14",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Human machine interaction (docente: SPITALE MICOL)",
+          "course": "human_machine_interaction",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:15:04.637115+00:00"
+    },
+    "2026-12-15": {
+      "events": [],
+      "checked": "2026-09-22T09:15:05.125461+00:00"
+    },
+    "2026-12-16": {
+      "events": [
+        {
+          "date": "2026-12-16",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:15:05.760752+00:00"
+    },
+    "2026-12-17": {
+      "events": [
+        {
+          "date": "2026-12-17",
+          "start": "09:00",
+          "end": "13:00",
+          "title": "Advanced topics in Machine Learning and Neural Networks: Models, Operations, and Management (docente: TROVO' FRANCESCO)",
+          "course": "machine_learning",
+          "location": "DIBIT1 - Aula PASTEUR (piano terra)"
+        }
+      ],
+      "checked": "2026-09-22T09:15:07.095770+00:00"
+    },
+    "2026-12-18": {
+      "events": [],
+      "checked": "2026-09-22T09:15:08.578661+00:00"
+    },
+    "2026-12-19": {
+      "events": [],
+      "checked": "2026-09-22T09:15:09.529516+00:00"
+    },
+    "2026-12-20": {
+      "events": [],
+      "checked": "2026-09-22T09:15:09.892030+00:00"
+    },
+    "2026-12-21": {
+      "events": [],
+      "checked": "2026-09-22T09:15:10.500462+00:00"
+    }
+  }
+}

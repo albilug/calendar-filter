@@ -1,0 +1,2504 @@
+{
+  "links": {
+    "_blackboard.data.calendar.CalendarEntry-_125032_1": {
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125032_1",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-09-21-1400": [
+          "2026-09-21T14:00:00+02:00",
+          "2026-09-21T16:00:00+02:00"
+        ]
+      }
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125031_1": {
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125031_1",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-09-21-0900": [
+          "2026-09-21T09:00:00+02:00",
+          "2026-09-21T13:00:00+02:00"
+        ]
+      }
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125181_1": {
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125181_1",
+      "coverage": {
+        "pdf-2026-radiomics-2026-09-24-1400": [
+          "2026-09-24T14:00:00+02:00",
+          "2026-09-24T16:00:00+02:00"
+        ]
+      }
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125180_1": {
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125180_1",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-09-24-0900": [
+          "2026-09-24T09:00:00+02:00",
+          "2026-09-24T13:00:00+02:00"
+        ]
+      }
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125056_1": {
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125056_1",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-09-23-0900": [
+          "2026-09-23T09:00:00+02:00",
+          "2026-09-23T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-627b079faef0eccf16989f2c@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-09-28-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-09-28-0900": [
+          "2026-09-28T09:00:00+02:00",
+          "2026-09-28T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-5c86c60fc7b7c5b211911d8c@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-09-28-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-09-28-1400": [
+          "2026-09-28T14:00:00+02:00",
+          "2026-09-28T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-d63fec9f88a3d86ebbd34c52@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-09-29-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-09-29-0900": [
+          "2026-09-29T09:00:00+02:00",
+          "2026-09-29T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-b777d8b3d5b4e9d15d17f557@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-09-30-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-09-30-0900": [
+          "2026-09-30T09:00:00+02:00",
+          "2026-09-30T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-05f2972dde5ac840de2fdcd7@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-10-05-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-10-05-1400": [
+          "2026-10-05T14:00:00+02:00",
+          "2026-10-05T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-4e480dc80d098be058ac6d3f@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-06-1100@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-06-1100": [
+          "2026-10-06T11:00:00+02:00",
+          "2026-10-06T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-837587ed3ad83bbdd0a9d5b3@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-06-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-06-1400": [
+          "2026-10-06T14:00:00+02:00",
+          "2026-10-06T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-e010bc3341ea0becdfef2bd9@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-07-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-07-0900": [
+          "2026-10-07T09:00:00+02:00",
+          "2026-10-07T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-198d6dedbb226af2a5a92df5@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-10-07-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-10-07-1400": [
+          "2026-10-07T14:00:00+02:00",
+          "2026-10-07T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-ba49ce358f466bd70b472b81@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-08-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-08-0900": [
+          "2026-10-08T09:00:00+02:00",
+          "2026-10-08T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-6715c7fc49542f205f86b0f0@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-10-12-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-10-12-0900": [
+          "2026-10-12T09:00:00+02:00",
+          "2026-10-12T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-5aa8e7b2cae6233c6fd6b408@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-10-12-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-10-12-1400": [
+          "2026-10-12T14:00:00+02:00",
+          "2026-10-12T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-ba7b83fa2f810f705ac9801c@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-12-1600@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-12-1600": [
+          "2026-10-12T16:00:00+02:00",
+          "2026-10-12T18:00:00+02:00"
+        ]
+      }
+    },
+    "orario-ceda51a63b7811a966f3cad5@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-14-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-14-0900": [
+          "2026-10-14T09:00:00+02:00",
+          "2026-10-14T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-f743f9aaf2414e5b80fcbdd3@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-10-15-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-10-15-0900": [
+          "2026-10-15T09:00:00+02:00",
+          "2026-10-15T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-9ffd3dc5910f76e716b08a66@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-10-19-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-10-19-0900": [
+          "2026-10-19T09:00:00+02:00",
+          "2026-10-19T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-8bf8631cafa4a135fa4d3507@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-10-19-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-10-19-1400": [
+          "2026-10-19T14:00:00+02:00",
+          "2026-10-19T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-b8a866302c27026b749f283a@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-20-1100@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-20-1100": [
+          "2026-10-20T11:00:00+02:00",
+          "2026-10-20T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-404eca742b16a3f080c2f2ba@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-21-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-21-0900": [
+          "2026-10-21T09:00:00+02:00",
+          "2026-10-21T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-b10de7bb6715eb866992a9b5@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-22-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-22-0900": [
+          "2026-10-22T09:00:00+02:00",
+          "2026-10-22T13:00:00+02:00"
+        ]
+      }
+    },
+    "orario-737a238214b687887579d76f@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-22-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-22-1400": [
+          "2026-10-22T14:00:00+02:00",
+          "2026-10-22T16:00:00+02:00"
+        ]
+      }
+    },
+    "orario-e6d959288ec07deb8981a9db@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-10-26-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-10-26-0900": [
+          "2026-10-26T09:00:00+01:00",
+          "2026-10-26T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-5d0316f78eb8021cdbefeeee@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-10-26-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-10-26-1400": [
+          "2026-10-26T14:00:00+01:00",
+          "2026-10-26T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-3c56796d4864f1be3d84f477@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-27-1100@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-27-1100": [
+          "2026-10-27T11:00:00+01:00",
+          "2026-10-27T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-2c14ba3e153dd5faa104fda2@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-27-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-27-1400": [
+          "2026-10-27T14:00:00+01:00",
+          "2026-10-27T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-924fd6ae3016ff7c641a7d45@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-28-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-28-0900": [
+          "2026-10-28T09:00:00+01:00",
+          "2026-10-28T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-a4d0355d2e9cc5564c815f3a@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-28-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-28-1400": [
+          "2026-10-28T14:00:00+01:00",
+          "2026-10-28T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-13abe640ae09a745ca293bb3@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-10-29-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-10-29-0900": [
+          "2026-10-29T09:00:00+01:00",
+          "2026-10-29T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-c5ba1ed683be6695535041ac@unisr": {
+      "uid": "pdf-2026-radiomics-2026-10-29-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-10-29-1400": [
+          "2026-10-29T14:00:00+01:00",
+          "2026-10-29T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-4ec44f5319123d59452a194a@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-11-02-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-11-02-0900": [
+          "2026-11-02T09:00:00+01:00",
+          "2026-11-02T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-2147da96bbb37e9b30045df6@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-11-02-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-11-02-1400": [
+          "2026-11-02T14:00:00+01:00",
+          "2026-11-02T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-93d26b297c736e9da0be4f2c@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-04-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-04-0900": [
+          "2026-11-04T09:00:00+01:00",
+          "2026-11-04T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-d2de597682e4f7899751d387@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-11-04-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-11-04-1400": [
+          "2026-11-04T14:00:00+01:00",
+          "2026-11-04T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-d77061be357b95551f93ad8a@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-05-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-05-0900": [
+          "2026-11-05T09:00:00+01:00",
+          "2026-11-05T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-52f1d1f49e889af3e9926511@unisr": {
+      "uid": "pdf-2026-radiomics-2026-11-05-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-radiomics-2026-11-05-1400": [
+          "2026-11-05T14:00:00+01:00",
+          "2026-11-05T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-2fc35799880ee7eb92faf78c@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-11-09-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-11-09-0900": [
+          "2026-11-09T09:00:00+01:00",
+          "2026-11-09T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-692e05b9e7755989a7295cc4@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-11-09-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-11-09-1400": [
+          "2026-11-09T14:00:00+01:00",
+          "2026-11-09T16:00:00+01:00"
+        ]
+      }
+    },
+    "orario-6ac9d4dcd30156aecb8f7b9b@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-11-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-11-0900": [
+          "2026-11-11T09:00:00+01:00",
+          "2026-11-11T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-697447f4ff3b156f58abc29d@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-11-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-11-1400": [
+          "2026-11-11T14:00:00+01:00",
+          "2026-11-11T18:00:00+01:00"
+        ]
+      }
+    },
+    "orario-bd074f7f877a36ce90c2c246@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-12-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-12-0900": [
+          "2026-11-12T09:00:00+01:00",
+          "2026-11-12T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-33b9287ed17bbab628cae35c@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-11-12-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-11-12-1400": [
+          "2026-11-12T14:00:00+01:00",
+          "2026-11-12T18:00:00+01:00"
+        ]
+      }
+    },
+    "orario-78c7673a9ee2be2c3f1454ae@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-11-16-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-11-16-0900": [
+          "2026-11-16T09:00:00+01:00",
+          "2026-11-16T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-efbbbb873229b227d9c6902c@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-11-16-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-11-16-1400": [
+          "2026-11-16T14:00:00+01:00",
+          "2026-11-16T18:00:00+01:00"
+        ]
+      }
+    },
+    "orario-20a9c54db6d1849be64e4bf8@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-18-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-18-0900": [
+          "2026-11-18T09:00:00+01:00",
+          "2026-11-18T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-7f567d0a007fa04042d14ff9@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-19-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-19-0900": [
+          "2026-11-19T09:00:00+01:00",
+          "2026-11-19T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-9c2368fce0e620777db0af51@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-11-19-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-11-19-1400": [
+          "2026-11-19T14:00:00+01:00",
+          "2026-11-19T18:00:00+01:00"
+        ]
+      }
+    },
+    "orario-61d8e86dd1e13f93c62a8113@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-11-23-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-11-23-0900": [
+          "2026-11-23T09:00:00+01:00",
+          "2026-11-23T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-fea834e94d9c1c60a153e372@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-25-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-25-0900": [
+          "2026-11-25T09:00:00+01:00",
+          "2026-11-25T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-f2357e26cdb9fef706096f73@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-25-1400@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-25-1400": [
+          "2026-11-25T14:00:00+01:00",
+          "2026-11-25T18:00:00+01:00"
+        ]
+      }
+    },
+    "orario-34b34e9768d99169e8a83cda@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-11-26-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-11-26-0900": [
+          "2026-11-26T09:00:00+01:00",
+          "2026-11-26T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-7dc0ae0669e5f0da5b3014c1@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-11-30-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-11-30-0900": [
+          "2026-11-30T09:00:00+01:00",
+          "2026-11-30T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-a89b0eca46ae5aaec5ff34ca@unisr": {
+      "uid": "pdf-2026-wearable_devices-2026-12-02-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-wearable_devices-2026-12-02-0900": [
+          "2026-12-02T09:00:00+01:00",
+          "2026-12-02T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-9b28145248a0e766a0a16440@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-12-03-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-12-03-0900": [
+          "2026-12-03T09:00:00+01:00",
+          "2026-12-03T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-0aacc530f1ddccfb5b32896d@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-12-09-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-12-09-0900": [
+          "2026-12-09T09:00:00+01:00",
+          "2026-12-09T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-52324f8cc6f5a186dfb11f60@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-12-10-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-12-10-0900": [
+          "2026-12-10T09:00:00+01:00",
+          "2026-12-10T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-3c24cb106183e6ef3e00929f@unisr": {
+      "uid": "pdf-2026-human_machine_interaction-2026-12-14-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-human_machine_interaction-2026-12-14-0900": [
+          "2026-12-14T09:00:00+01:00",
+          "2026-12-14T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-0515343de40e3c203940ccc1@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-12-16-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-12-16-0900": [
+          "2026-12-16T09:00:00+01:00",
+          "2026-12-16T13:00:00+01:00"
+        ]
+      }
+    },
+    "orario-85c9ae10795cd2dc03cecde2@unisr": {
+      "uid": "pdf-2026-machine_learning-2026-12-17-0900@unisr-provisional",
+      "coverage": {
+        "pdf-2026-machine_learning-2026-12-17-0900": [
+          "2026-12-17T09:00:00+01:00",
+          "2026-12-17T13:00:00+01:00"
+        ]
+      }
+    }
+  },
+  "published_pdf": [
+    "pdf-2026-human_machine_interaction-2026-09-28-0900",
+    "pdf-2026-human_machine_interaction-2026-10-05-0900",
+    "pdf-2026-human_machine_interaction-2026-10-12-0900",
+    "pdf-2026-human_machine_interaction-2026-10-19-0900",
+    "pdf-2026-human_machine_interaction-2026-10-26-0900",
+    "pdf-2026-human_machine_interaction-2026-11-02-0900",
+    "pdf-2026-human_machine_interaction-2026-11-09-0900",
+    "pdf-2026-human_machine_interaction-2026-11-16-0900",
+    "pdf-2026-human_machine_interaction-2026-11-23-0900",
+    "pdf-2026-human_machine_interaction-2026-11-30-0900",
+    "pdf-2026-human_machine_interaction-2026-12-14-0900",
+    "pdf-2026-machine_learning-2026-09-30-0900",
+    "pdf-2026-machine_learning-2026-10-07-0900",
+    "pdf-2026-machine_learning-2026-10-08-0900",
+    "pdf-2026-machine_learning-2026-10-14-0900",
+    "pdf-2026-machine_learning-2026-10-21-0900",
+    "pdf-2026-machine_learning-2026-10-22-0900",
+    "pdf-2026-machine_learning-2026-10-28-0900",
+    "pdf-2026-machine_learning-2026-10-29-0900",
+    "pdf-2026-machine_learning-2026-11-04-0900",
+    "pdf-2026-machine_learning-2026-11-05-0900",
+    "pdf-2026-machine_learning-2026-11-11-0900",
+    "pdf-2026-machine_learning-2026-11-11-1400",
+    "pdf-2026-machine_learning-2026-11-12-0900",
+    "pdf-2026-machine_learning-2026-11-18-0900",
+    "pdf-2026-machine_learning-2026-11-19-0900",
+    "pdf-2026-machine_learning-2026-11-25-0900",
+    "pdf-2026-machine_learning-2026-11-25-1400",
+    "pdf-2026-machine_learning-2026-11-26-0900",
+    "pdf-2026-machine_learning-2026-12-03-0900",
+    "pdf-2026-machine_learning-2026-12-09-0900",
+    "pdf-2026-machine_learning-2026-12-10-0900",
+    "pdf-2026-machine_learning-2026-12-16-0900",
+    "pdf-2026-machine_learning-2026-12-17-0900",
+    "pdf-2026-radiomics-2026-10-06-1100",
+    "pdf-2026-radiomics-2026-10-06-1400",
+    "pdf-2026-radiomics-2026-10-12-1600",
+    "pdf-2026-radiomics-2026-10-20-1100",
+    "pdf-2026-radiomics-2026-10-20-1400",
+    "pdf-2026-radiomics-2026-10-22-1400",
+    "pdf-2026-radiomics-2026-10-27-1100",
+    "pdf-2026-radiomics-2026-10-27-1400",
+    "pdf-2026-radiomics-2026-10-28-1400",
+    "pdf-2026-radiomics-2026-10-29-1400",
+    "pdf-2026-radiomics-2026-11-05-1400",
+    "pdf-2026-wearable_devices-2026-09-28-1400",
+    "pdf-2026-wearable_devices-2026-09-29-0900",
+    "pdf-2026-wearable_devices-2026-10-05-1400",
+    "pdf-2026-wearable_devices-2026-10-07-1400",
+    "pdf-2026-wearable_devices-2026-10-12-1400",
+    "pdf-2026-wearable_devices-2026-10-15-0900",
+    "pdf-2026-wearable_devices-2026-10-19-1400",
+    "pdf-2026-wearable_devices-2026-10-26-1400",
+    "pdf-2026-wearable_devices-2026-11-02-1400",
+    "pdf-2026-wearable_devices-2026-11-04-1400",
+    "pdf-2026-wearable_devices-2026-11-09-1400",
+    "pdf-2026-wearable_devices-2026-11-12-1400",
+    "pdf-2026-wearable_devices-2026-11-16-1400",
+    "pdf-2026-wearable_devices-2026-11-19-1400",
+    "pdf-2026-wearable_devices-2026-12-02-0900"
+  ],
+  "versions": {
+    "_blackboard.data.calendar.CalendarEntry-_101394_1": {
+      "hash": "ea18890825ba4f54d9a48f8b93038d8aeb2fa0444b55944ea3f0a6d875237cad",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101395_1": {
+      "hash": "175b05d4c3c0114cd3d4d55763609706c0180c2f607fc8accbb472a18e96eb42",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_118939_1": {
+      "hash": "d2991d91642c2eae3ff0ea03091ad6dd6231074d51b3aa3b07fa4456f4ec0edf",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117659_1": {
+      "hash": "faa2a2d7e30af9d4edaad07b3487f7931f90a3f7dbb663541c083216d11bf72b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117675_1": {
+      "hash": "9acc601b11423ac872fa584ed7e49e799ca7bb4bf6b5afa5bf6e37ed09f33898",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117601_1": {
+      "hash": "c9cbcae2c793c99e407734e38d4f63854bf47f00e74263edb40292cf799889d6",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100240_1": {
+      "hash": "cae69ed35352fd14a87207b821d7387b6c0bd410b4807d455142b590e7ae564d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110156_1": {
+      "hash": "537e57ee9f1986e626229e479b62b833763ab1addec43658ca80389b841b6a47",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101970_1": {
+      "hash": "a12942910787e44d8fa0cb340c2e062d4a9eb9310c0eed5e7310da90464877f0",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_111939_1": {
+      "hash": "db14815eb8c585658cdbbf228ec9c7b368422ac1c7c6e30b31e2653baa06c730",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120524_1": {
+      "hash": "bcd0f6b306fe08039229eed3d9c736bb854af6f72827a646527d1646194fc7bb",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117606_1": {
+      "hash": "241ad1dc967e28c8e9178628ab3ad863aea84a684950ece950fedb59dfc28309",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117688_1": {
+      "hash": "33bad1e0f723036771bb2ab5a682f2382ebc547ee87ded782a72d038b7505476",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119799_1": {
+      "hash": "636645ea3ebd9b5c0fb9be47a9a350b29b04930c93103c48405971eb722606a1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_109359_1": {
+      "hash": "a5f590198fe09ed642ef0e420b65807cee489e2eee215e13320a6ce41e9ee498",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102122_1": {
+      "hash": "4783b45a6baa4bddabb4ab10f1119500cf09d1744e5d87f31215dc194a137dfb",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117604_1": {
+      "hash": "8737481e35bb02d1e53188a0cc6968039ed068259ce1c8d2099096878f8ab1ff",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100254_1": {
+      "hash": "6c6b2106a0634b249d54f284e10db9804f7de060fab805ecb4950622d3dc8df5",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97952_1": {
+      "hash": "c24d159219726cd5576412fd2e6c360cf30cefcc2892bf98ee0254fa3d83d252",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105979_1": {
+      "hash": "7ce4a2072e3c3579764921ec3d34e30cb42f228687b2884e41f2e48188412630",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_109358_1": {
+      "hash": "c207f0e8a73a3aac83372ad8b3f680e5d8f07ca5e357e61e35bf62ef55870aa9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_94415_1": {
+      "hash": "2e51baff3ef250d45e67840f916007b77db4be80fcf28f50b22381f1cd22fefc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121547_1": {
+      "hash": "0f80dac2c0444ce439ebfac06ec90022be609a65713c0b855fc43157b8a5eacd",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100253_1": {
+      "hash": "abd28241ee639bc17d00ad20c1a048ca296da7f411392f7d03b2708a9516193c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104940_1": {
+      "hash": "60aea60c49505ad5f6c0b3185364c65ee3048a88b89c3cf08e726371367355a9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101974_1": {
+      "hash": "de5e711a0d3c0580d32cab68f7e51f08ac4a97552290c870618c6018f9e2db7e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117629_1": {
+      "hash": "2c3d9e6b9d9d559ab55b52fe1a92ee7b0025ceb4a71a0839a3f043644f54c0e0",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104648_1": {
+      "hash": "81f83de3f2ddfedb936112ce11eb36a2244b2bb23741cc50570f0c65605461d2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125032_1": {
+      "hash": "64dc81a9ad8fc83a2d427be038c1209c73a62f43a3b36d02e62522691f1a9801",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100323_1": {
+      "hash": "41ef7ec6227f6d9b61d4700a8ebee5c76c2fd96da78d253be4ec6637ab3a7985",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100239_1": {
+      "hash": "5e54783b48ea2ba6d9258ae3985a1c80794a2f449e460095c3d66dd19cd3fe5e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100320_1": {
+      "hash": "084a1c73320fb266564aa235c317f1aa6b3beac06a66e19cd0ad754d63a21ec9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97664_1": {
+      "hash": "e1c795c76ff3603ab958ce89fe16d784ad77974886639f1ca7d485bf3c14324b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100666_1": {
+      "hash": "21419c322a54c08798f46c44e53756343d56f862d148be58800c94809f480957",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122533_1": {
+      "hash": "1e1f57f91f42a39ca9715234fb1bfe8f20ee780b7c4d55be3a31aab341aa7d78",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_94370_1": {
+      "hash": "334f85c7549994071d78074387924a92071f1532c55036514a0e102a96c6ff9a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101966_1": {
+      "hash": "310ac9bb5feb1dc63604c6dd847b0240a927522799fed88456965acee569609a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110130_1": {
+      "hash": "798a03a96a5318ee242cf15a9f05e5bacf0121147b74be56121dc8ec09ac7949",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117572_1": {
+      "hash": "d09d573a9a080fdbe36331e23ca39054f94c0c9bd7542e537d9e82febcd3d90a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103221_1": {
+      "hash": "145847d9fbb4e367e838cda249dd8578faa32555a1aef2dad7eff868c263e561",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124708_1": {
+      "hash": "40aa58360b79012f5f7d7cc2b40b33219faaeda6ed0a28f5114ad38371d4cc7f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121055_1": {
+      "hash": "e6b400b5d49cf53b3a21316a6e37af7cb2ffe81cd0bdf644ac808b347278d886",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120836_1": {
+      "hash": "3e573f6c77d875dd99ceeeb20a30510cec47c532117e11d761fbc99fd337a81a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105875_1": {
+      "hash": "fc9fcdee05b9fb3b8638d954d3c718c1369849ca707dac90465e277b527ff917",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100150_1": {
+      "hash": "c406ebbd93a8c9560377bc8f841a63af2a6c8891760bc9142117a59b5a025ab9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120523_1": {
+      "hash": "4040f3f2259eb7251100e2be30b4e7625b2a12c110e3f0cf275b567cdf556fd6",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_111938_1": {
+      "hash": "f488c236c2d94e6a36ec293b288b6ad9405ba30fc5042de3155148bc3c1cc9bf",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101979_1": {
+      "hash": "6fe781a9c1594085705946ebb7bdf7a768dea6f73dd0a851d21dbff8648d8632",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117878_1": {
+      "hash": "e9e62a9b0bd8d69a5848fbc084065f93d8dbd2952588c8b45990caed11410265",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117600_1": {
+      "hash": "d02268312467a8528cf7d2545ff39cb915efafd9bce1366b9bce2753e58dcfbe",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119091_1": {
+      "hash": "4681b1fb58405d0f81c9fce7a3cbee160e41656b5f8200f5c26f76ea62f0e9af",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100237_1": {
+      "hash": "9ed19098d9c34616e69028c76239a36a3366b5fb8afea1038f48fa7055519ebb",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119503_1": {
+      "hash": "01273ae98687b80de3cb80dbb39f7e1cd854f157dc9b97345d49a0391e9d42e1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104443_1": {
+      "hash": "b5db739e610f6562b3610f8eddeea10008d0af338afd9150f6b5ec2e559198ea",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117625_1": {
+      "hash": "0985fb19a4d78e23b9bb4261064c44e184a60b6633db9e496b980f7135c7facf",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100313_1": {
+      "hash": "2f867b1f498b94d02bb71128c545dbc98c200cc3909f1134ae64310ea94142fd",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100232_1": {
+      "hash": "fa3c7585c93ac9f068daf464cb1ac64ba382734b9ae9ca17fa6217cc80a1dd89",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100230_1": {
+      "hash": "4fdc3eb0ed87ae32c2f9bc56b9acee61c5699e95cd3cec0740de2943b4c4d573",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97078_1": {
+      "hash": "7c055ca9dbbca79a1484b3f9d5912dc69338279edf8b6375de19b9d74bce188f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103767_1": {
+      "hash": "7ac2cdf2cbe22c7bda492dc8bfdab64d5a66703fc9bb6ee8a9fa4f08f5d5ce26",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117621_1": {
+      "hash": "3f63f50a204c237ead77b7475076fa385158e2ea7d2c8fee0e3617c18cc595d2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_116669_1": {
+      "hash": "aca529b64ba4857cb923aa73e98cd4d000b526e06d1db0b3704b489335ade56f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_123574_1": {
+      "hash": "4f9b4eff07c20af2a6ad1133c19f2c28c361c921fa63f82e317225ade3e92be6",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121653_1": {
+      "hash": "3f20836d4d143f840c2fdb2ad47005c15ba9ef7536f300598e1fc0a09767388b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119925_1": {
+      "hash": "c13f0159587575d5a58e8aa0a5d3ede4f2d8dd44ac6ddba7fda1c1f8db04c9bf",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117665_1": {
+      "hash": "1c7ea3f7e1e96b9d32ea2ed9e28f094bd3174fd00934aba9b00f560c8e50b167",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_118719_1": {
+      "hash": "1cb3bda4f8560129097cbf84478232966cac1dc7f282c41f6d152fd942a4c84b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_111802_1": {
+      "hash": "acaaf764e02bd496c9c730c49e4a1ccfa9b68a403dd39ebff19e6b600ebde80c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100275_1": {
+      "hash": "93ed6f5025c312a6c92717a098714235520df2052b398a08a6c063708d7616fc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102361_1": {
+      "hash": "f4e774009c70ebf72965c17999093c50a2676a33eb5bfd995b7a28f3134b397c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102126_1": {
+      "hash": "8ec0cf8b16b801abb0b87958b7d1f1edcc5c1d59a0e2f50cb72f778c36c9f150",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117578_1": {
+      "hash": "c500bf3c977e9e849642fe6a2e78fe0fc3ca0b6033e1151a53c7c55e29b4cf9b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100250_1": {
+      "hash": "a1e7f09390a8870d7a1835e9b953670b89675550d4bf8b6baa8bbcec8d3ea333",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124229_1": {
+      "hash": "871cf7102c35f3c332d2f5c501e5dd6f28d0a380a05f714dcc1919465566cee4",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117611_1": {
+      "hash": "5ead265970433389d4d220111869e1a29ee1c4c7bfe6fc841ecf41cdd38d430e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117623_1": {
+      "hash": "d27f92eecb0f0016efdc4c0101fd44667d2353314c3bdaa64b647721ae338a63",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117672_1": {
+      "hash": "903aeac7342725a6ef10f73ee322b78e853f5f0fe02ab0946b5434149b6025fd",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103358_1": {
+      "hash": "a55e33e3c336d75084bcd72d06c98f571dbf7d0c8437021cd066693715da92d7",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100152_1": {
+      "hash": "17d55c012976be7a0be9b2d48dcdb9833b88b4b7abb6d93a652e5bd1095b827c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101570_1": {
+      "hash": "fd900e80b38fb068e08ece8f205b5d2f4dfa3b5d7f8981b21257890a8458ea35",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124743_1": {
+      "hash": "3a32d7117d41ce34ba124429c365d11e8982ba00ec3be8d3f0afd686257f8760",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100146_1": {
+      "hash": "ad72eccdd1f31bf013599821734ebd53af221e7c21f73492b5f384263d00e99e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100141_1": {
+      "hash": "ee209c1dd008e2e3661ff51b77aec8f0aa0bfc5384421a28ec5e46d767e48d30",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101115_1": {
+      "hash": "e5ae9eb2058e137b77b29a1313f8c2512fa389458bb0111c55e719923143598e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100151_1": {
+      "hash": "c83ecf20281a5a274aea7b84caa2e2d3898920284cbb02cd8971c807ebee6840",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104434_1": {
+      "hash": "562163a48221f454b5275d6258daff39a7e3971e273d2789738526c01669476d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97382_1": {
+      "hash": "04e1d8d17aa1712dae14abd69a3b582849b253c39cd8a8951229bf25e20ec146",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_94045_1": {
+      "hash": "219cf85f841c8f370322a86c13d5bff6eff5f4eafd50b6276e584423639d7e61",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117560_1": {
+      "hash": "89c0a1d203c841652a67b5c6fc6d13463d03f9c980ab8699044296b727461a8e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105281_1": {
+      "hash": "895b1f8897105b6063591f004b3b6bd11593b95bdc121a61d0cbb96be5649d84",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104543_1": {
+      "hash": "7724907bee8e3f093baaad0d6ac0f6f8d71807bf8ef144cc8a5dce98322742cc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117671_1": {
+      "hash": "4787836d97bef5dcbca71b03bc37ac685455129ca7bd35678256eb57eded95a4",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120525_1": {
+      "hash": "69511bca2b979d2e8b712673e05140c7c5b0d4f20d8ecdbacf4e30bb1ce380bc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119502_1": {
+      "hash": "b554df0621b42c34e642520a6d29275489b2893390aeeed40e95bc2c65ee2214",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117800_1": {
+      "hash": "e7fb16b0a7f73def9a33a53e9323749934b07ac4ebd700cf4628b1e8664115f4",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_106758_1": {
+      "hash": "efa66c9d915c2516dc4f1d051fb02b51b0e908875d0bc9e97337a7d114e46473",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117624_1": {
+      "hash": "7dde4ffbeb76c0e5ade1247431f03544c924f7316728195767979b793484e236",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_94676_1": {
+      "hash": "5051d9854b29c8607ddf72ece4eb0915c77703d1e72d8622dd19543e543a1992",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103617_1": {
+      "hash": "d01583ac851331b5b278b5aa34e7c8272c5d8af42eb987e850b5348631643308",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119066_1": {
+      "hash": "23243b863b9163a3449daab9e03177f59f389f1966f6f29039c2c48eba6b3f17",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97422_1": {
+      "hash": "76fb6975c2a2126f0873142b033aef1f0e63ed47586413327510893b2f23423a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97381_1": {
+      "hash": "58cf48275aab2b0568a16b9ea7c5e08777ae37345a1811a4ed68d795fc41eef2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_109971_1": {
+      "hash": "358346465cb4e9dbf84dedcd9c44e2aeecd5e49d3ed14b7b0c67edb5ff41d17f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_109360_1": {
+      "hash": "61ed2be9aefbad5962056dece8062646b0fc9b76fe502f88af6c3695df13577d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121160_1": {
+      "hash": "3c957f17c558e77aa6460195ed0cc85cf90b458eaad00ea7c22a1f5c5c15b5a9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117568_1": {
+      "hash": "518e377126c8ee6a57183b445fab0f248a3f86b86d8d4aa5bad378e6d32277cc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117569_1": {
+      "hash": "49b5c4a83b490f89c965d80dd270145245373e9d9fe5b5b6ca65063d512eecec",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_123200_1": {
+      "hash": "d386f4fbe203a7269741a7a6fa425b08aac303f63b3e422d489d411ae0c60ebc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120089_1": {
+      "hash": "412abd280fa218a1a2e3e913400b04662a18bca375e4d94f78b528c25017e07f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117571_1": {
+      "hash": "8fe23006e55e15d9f29faa7aed295ef2a77edbba0cf0a2b22584c8985f149018",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102221_1": {
+      "hash": "169ebfa0b9e429cae9c865a4096a46a08eeb0a4fc636b31a6c915390d680ea48",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103063_1": {
+      "hash": "b6ba71354e06a4c3fd99351f819b8b4861e8b85a044855392e7c12736637e231",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100294_1": {
+      "hash": "7c504de1949260a1658740d29963d608d9a8a953d9a71dc8dc45638845c10a84",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124226_1": {
+      "hash": "40758f5464efff5723c0b37dda11bbcd282fc09c5ab5092abafc82fd8ac9a597",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124257_1": {
+      "hash": "a33fc87f54a4e20b53c555439d674ec93d271488b6cd18b45d4ebbe84c8dd712",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_99644_1": {
+      "hash": "db00364b89ca3c3519a9eeb48c97bcf0e35e4f3c2c71e92d860736a46fef0a3f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102217_1": {
+      "hash": "269ba1c6cf434152cafea161efe7903b1e7dabd529a6bc2261bb881c3a284b37",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100255_1": {
+      "hash": "1d7316d9f0bea8bef6c074833840da7b6cccebe7ae4a13d01b16e9fe364a6585",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_118257_1": {
+      "hash": "fcdac02dce0f7bb5e8f6fdf5266ec2b0dad42ca71a139c3d10ef4868c1360cca",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100238_1": {
+      "hash": "3881fa7362de9276e96eb374d240f89c46a2f0908538f9c7798cef6665199960",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124256_1": {
+      "hash": "c7688fa86501428643a6820b7e36d4460f680561b841dc2fa8f15d65205e7163",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121428_1": {
+      "hash": "56ba67f2b6f7b68aeb90c0ee2a6adf02820296e05e3b44f33b46b1e90cc1872c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101244_1": {
+      "hash": "544372f62c77a4e917ff7e41d45d5af7b654f2b8861c781622276f7590b86024",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_99328_1": {
+      "hash": "296167e29e81dacf440db9d329046a9b8247c137692f720e99d3d0f29e42fb38",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100662_1": {
+      "hash": "4a7a7d8004449a57cc623cd8f28548b92e3f42b36ff4dcf61e516bbfa2560122",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117570_1": {
+      "hash": "9c47a7c23486dfd1a7996d41296740fa7ea65fad5725804a62ffc3abb06fb1a1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102123_1": {
+      "hash": "23f84b178a06a32a482c9dfc5495d892704f89d0e09383aae43d735f61d05f4e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105423_1": {
+      "hash": "6db1f2ddc3a2ab0957d9b77b93263ecfd790401ebba7ff091998a559c7c2896f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_118258_1": {
+      "hash": "9d5d790c489f558749af26ea675665ea403c107ffa26501af0dd3944d4f11937",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_99645_1": {
+      "hash": "e3919c504f002bcfaa9fd5089722a96b1a06ea6b41929a0afccddcd7f5d05f64",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117660_1": {
+      "hash": "30d0f1ccec20f3e7699755c77dbf81391ad41030d417cd02792b7bdaee77c8e5",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125031_1": {
+      "hash": "827a064293fd161f7bb9a1264fbc4527f64e18a2c3386ed4a2058ef3ea5adc15",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103503_1": {
+      "hash": "bcbbd7878db8fdfaab0b3336e80a1d17d11b96de8291006e168121389b19a6bf",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120526_1": {
+      "hash": "d5623c595fe6e90b706fad9aae5618ed5e1f5d39320c77d7685dbbea268a7f53",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103062_1": {
+      "hash": "428791c5e697af381a3ff40264a8585b92b11f68d354e6afa0c5a5ed9cc6603c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110437_1": {
+      "hash": "ab4baebef1f3402b78dea8edda5d5e9154d57693823c356a2e0e62e30cfeb421",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117603_1": {
+      "hash": "778dc8daeb095dc629aa7385100abdd99833be926495e716ea8fccf7d99ee2b5",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100321_1": {
+      "hash": "ca66c0823243b16f4da1e684b696891bf04a4d718752d70d5435feeaebde405a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105831_1": {
+      "hash": "f610f8df1fde40624528982c0dd5090c20ad143ced1e281839fafefd0b8a787a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100663_1": {
+      "hash": "1568aea804f9d45cae299a03146053b959cf7eb50803b65500839e41220aa91f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_111869_1": {
+      "hash": "7c28b0d05959ab2b5f1fb662011a33135bba634f732913f791d14397cff01f48",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121195_1": {
+      "hash": "536ae49c265d4296e83d2e7ce39c36635690671e9e059e0f187f51e835fef442",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_123838_1": {
+      "hash": "de3d4c4670f95fc9560594f68d289b9dab237f90b420910de91b3e60f38fedc0",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104442_1": {
+      "hash": "52638aa38cd780a9fe95877722c351364fe0e27c5ab33d3de67c58bab349b5d6",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101971_1": {
+      "hash": "7f1a8cd903003299e7d2ffe86281ae0c3f66a6317adca39597b395a7bb61c2bd",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101243_1": {
+      "hash": "6f18a0a811bba75f928acd096246c950c2cff61a7c939de33d6e4019a68097f9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122040_1": {
+      "hash": "9d8de5153a29b3548b8ea5de6760b9af7692d7be8288cc5fa2ef745b5ba0ed76",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121429_1": {
+      "hash": "1468404a5ecc43b0f4e81b22fb4f2eed8ddeeef77c1d3645658a1d51a75b9c3b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101396_1": {
+      "hash": "4fb54f28a193914790a8cee477f4a052b4ac7db71245e4375bf38450a8c7713c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102636_1": {
+      "hash": "afe47cc0e6bb3bf1c2ac87335b1b094418b24338add1bc9256f74ffdb26761f4",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117681_1": {
+      "hash": "4417d2ad64a1f8883d7edde9a97f71ebeab1dc8e55b7c2452a7c71ca7d3069e3",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101965_1": {
+      "hash": "33a343045be7400ae0d42a220549ec58a868b1f33780e8dde228dfe33b9a7002",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105582_1": {
+      "hash": "c77736ab98c05a41c5dd0fb1741335f3948dd66e7be908423ee9e9f01ed5c3bd",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97517_1": {
+      "hash": "0c5fde81e849001a7c763d521486042a5a90a4486aec4fc39f15db039af79a3e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121056_1": {
+      "hash": "cce76b75ca52e2f8166b0be8d0a3572e430f35a4c6f93494f811f5c3f01803f3",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117680_1": {
+      "hash": "88c7ac76fb22fe4285303b213342b735fa1d6a15673ee00a843961c46ad4b943",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117607_1": {
+      "hash": "96fc7b610c5655972cd9790d99a21fa0af274936cc10b69b647c9fa56952d61c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101976_1": {
+      "hash": "c1f522a6f09b04aaddaa8ef2de72186b4f5b27e8ced903646377a5d17017188b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110155_1": {
+      "hash": "db9a0cf93d6fe96ba4e2a3f133884584d4e5e5cb9185c6d70d6b26556ae095a2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100269_1": {
+      "hash": "43a0da9da3a6b983797636f66619d659e8554bdd8fddab357a1d2209c0af09c6",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124227_1": {
+      "hash": "b04ca31d81dc0fd6dde5d6d33ee0943f88cccb03b7baf86917b97f92e63a5eca",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101397_1": {
+      "hash": "84138230148b3b676974520a282d7788053927e84b7e52011d5637cae7381e66",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100324_1": {
+      "hash": "e292d98883befc8741f07ce1aefa8180e6ca769581a4de643dade798d51562ce",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104657_1": {
+      "hash": "6eaef12301f3d8b810137d1cc63d39f4b4c86fbb1aca4f00412e3abdfcc3d930",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121548_1": {
+      "hash": "6ed78574fe8622142b0e7fde2a9aa6120be54682180fb03985d3c25aabd0a086",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117613_1": {
+      "hash": "96f154f2a1f45becd0b16e0a719c2e4284525e7ef0e093693ffeada11365480b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117630_1": {
+      "hash": "ab984fb4286424ec0089ce5099f2c4c455b298ce15871b505e86d67e4ca0280a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102358_1": {
+      "hash": "893d774c2aed0fe8db114f6f9fcfe3dff761ad6093f0f3c7f289af8fa02cce97",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122039_1": {
+      "hash": "9a7b5121e4441c3ca944600b8dea015448be1096568206f96d15c0871ddffd4c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103064_1": {
+      "hash": "940bfd0f456428874f2b8d6af5ff9c6a7b684f97925a853ed9c1442d792d9c67",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119230_1": {
+      "hash": "8f1000aea06fa70c9945ccebbe4e53ad817455b2a4610210d05e5011ef16afa5",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124228_1": {
+      "hash": "69f64278bae1df54a50b5da2e178b113a0bbfa8f55f2ba224a61c1482655a4d3",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117682_1": {
+      "hash": "9e74c0ffe8b9e9b78f6a22151a3144d123fee5b569d53fa389bbd99ec483d558",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102635_1": {
+      "hash": "97d3798def7dc4a82e6658806e21d2482646a8556f9735acafe0862410aba907",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103226_1": {
+      "hash": "1970f951edc9517f178b6cd54536051218d2f934641c818e9036b999d71e4e92",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101973_1": {
+      "hash": "fce68cee5b7cd64041b1f6da8a021b95f598e04ccf10ec11768020b066169d36",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100314_1": {
+      "hash": "8389cd3dfa9945e0ee2cb7706160751ae8ed1f5dd93220b971d44bef2b19a7c2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100274_1": {
+      "hash": "574dda15393b02ba32a7c2d94bd730642680c734cb76cf1f9c94239a98202fb8",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_118718_1": {
+      "hash": "24cfddcadddab047cee880e6e4519cf4a251b2a296f8724b4c8e2c1f860d4cee",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103618_1": {
+      "hash": "da1bcdedac16427f0f0e93974ca0de013613d0d10df96ed8a4344a71fb322b7f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104441_1": {
+      "hash": "16a68b5702e62c1b33ee3ed98f58de77bdbb729d892b5e02ff30489cc0e37e19",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119803_1": {
+      "hash": "a2401b4c4a6875699b9a78f9b9e53a9bd420149eccee532f21e8ed60bb15338b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101975_1": {
+      "hash": "b2a4fdef09fe378284791275078a67a28a91cabd3ebb1e4abc84cfb59b24bf9d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101112_1": {
+      "hash": "a77185d22f6e06691adc0845e155ca55545de809ee725a0bd6b37a804d109dc9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117602_1": {
+      "hash": "3c905f38c161d2879709cd2066451b423ba9f81ede9e16814f5f8b6c41e825bd",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117595_1": {
+      "hash": "208c85ff6a3488d1fec5a65993249f56f518684da28cd8f5aa09210c29dfdc86",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_99813_1": {
+      "hash": "4bfda73e9a749468bb708a1b67f589aae28a01c21efcfe34a31fe59fbcd04c9e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_93825_1": {
+      "hash": "2cd73a4813e58fea97a5950d0ebc3f3a638a28e3dd638baa89d31f53a15c758b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117573_1": {
+      "hash": "b5a27b43730a60cbfa7e7af07529d42883c639a6b067edda73fac660d58d1f90",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_111940_1": {
+      "hash": "de594dc3f9a0b5aedd0bd5d07f36a1ed8461d9f0a2c19133c1115f8e25e922e7",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_123201_1": {
+      "hash": "c57bcc0883f760f209a53da3bc7302b9ba22b5ab87be8b0d5880d452836e7d22",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122797_1": {
+      "hash": "633cbfcc9dabffdeb861fd7434ab5c6585bba0425088774555ffda5707bfc736",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117605_1": {
+      "hash": "81246908efd0431b991bca6ae1b23bedae91efa96b67ee85472f0445c35f880c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_98160_1": {
+      "hash": "b095fa05d70ddebb6bb38d59b5671a85317b054b2a089549e7889cd941885c4a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_116668_1": {
+      "hash": "81fa61fa7a4003c4f62e8e095147ce0d513c61954338ad394ac10bd8efcb67ee",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124744_1": {
+      "hash": "4a99c9413f08dd1553d97a8c73aca5444e480e708788c82d899b0a5795a9d24e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104444_1": {
+      "hash": "281ef1deda516fc2d06d7cca0b480bb7538625cbbba8df5cdeb26c009ee3a36f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101977_1": {
+      "hash": "c72355c71a289176449dfd49d9d6ea54da34dc0ebb654aca5318ba1b40215102",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121666_1": {
+      "hash": "f6c39a68bdb15ca955d28dc235ac460c0085c78e6dba9f327a03fd271948b6e1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119088_1": {
+      "hash": "53ea004d749e45f2c739f4b05104825811827cfbf79c66b0cdfe6977e0c502b7",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119504_1": {
+      "hash": "13c4bca1fa35000b6a94cdad93e4c1fb8866649d8e6efd3084ff40a84b61f344",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100231_1": {
+      "hash": "76560577ad1ca2aa4114dbd8182226d79741a0aa4088719a3201531a8ba5a40a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101978_1": {
+      "hash": "933338a5827e64d32f8ae5eb77cb87ad117bfdef49b9cf43eb545d68b24e9e1e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101235_1": {
+      "hash": "ff38411b8fea10c769eb772ea809e4cedd7d1c12937b1427f168024dc378a8a1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122353_1": {
+      "hash": "2ecd810f01fb2f8ef8aac77d26efe5796f5b70d7798f8db2118eca68e7ec5b13",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124651_1": {
+      "hash": "15fcab813d6a3a688d211065081e265d8375ab31d53f5d521e75a92b42db85b5",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104440_1": {
+      "hash": "87f43a4c49264a32f5c87ad9acac8e927ed1cbac9d2a6de30c59641198af8623",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125181_1": {
+      "hash": "a3f2178041fa7f966c9379cef1917834dcaed6393fcb7546b4da73070141b226",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117666_1": {
+      "hash": "e0eb5eb6cef03c71c6e849b8e3a506c424677a53e6e43c69f86342b2deedf7c1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120090_1": {
+      "hash": "5b3b8aca1bd12d861dc75193ebd1fc4b74f1fd9dfec388b1bf79e414dd98584c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104653_1": {
+      "hash": "965355683dec6c85fe04027338eb76a0551fa24fcf75b8112202fd4ed7a37aa9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105295_1": {
+      "hash": "5f7cff2d850112a1b2382f4f2ce81773fb38c88c0b0f49d996128498756ac204",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_124652_1": {
+      "hash": "436b1df7587787c867339621bb692c52038973eae4591c5b4d51051a279ceee2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117561_1": {
+      "hash": "87930044f7abb2d80ccebd14741c4d517b2c09665bbc7173337447903377984e",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_120837_1": {
+      "hash": "e3ba8cad8b8b2b01b76452836af5ce4742cbc7f1bb087909312324b00820de9a",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117579_1": {
+      "hash": "c1236965bfb7c5a4ec1c45710905a8fe2e964a2d72420c4ba455eb0d25763697",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110436_1": {
+      "hash": "6c73342224c746e677ecbe330fb156fd9ed1c379d38923838e2657cbcdc4e383",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100319_1": {
+      "hash": "8ba20f90607e1b2bff5553fc38ddc048f385edacc3d87024a32489ec138278b2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_105422_1": {
+      "hash": "332e12988dcf9fab0187cc892555d8c4ad62e8fefc828df4c33f543228f928d7",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117566_1": {
+      "hash": "e49fbd030db1e708ba1553ec207330964c03b868936d5d6190035aed53aad056",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102634_1": {
+      "hash": "aae060cc694cdab6a1a227bb39cfbfb3e62b38f1f676b52870d08f1863d10e20",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125180_1": {
+      "hash": "42d8b5337ac10347378be599c6015c31b6eac87989d6e1df38bf58c60acc5ef4",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117639_1": {
+      "hash": "574f86900f305063c0f442f3449cc5b904d58cc61bfc64416617aef5881ff1a7",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110115_1": {
+      "hash": "3da089659526faf1fc80823db8070ea5ffc2385cd2df5b6492e833446caccb92",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102637_1": {
+      "hash": "28b2a6df2fe219a024cd119f7402c03ba97fca61598e801c47353f2f8e6a52e2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119926_1": {
+      "hash": "5be5306166caef50c23ca39d4f0e471029a9cf62f65ac6d9abf82e911006f6af",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117612_1": {
+      "hash": "42e39c94476b9747b53f736cc5e31bcff1eb901d0a64522d0a2925215fca3993",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117670_1": {
+      "hash": "08cda309a3d835d3ea6533c973f37d606806d5274cde214bcbe4a5c01fcc4b03",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_110299_1": {
+      "hash": "134743408ce781aef90261718fc89729aef6fde8783fcb3320b12d48f2bb57f9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122798_1": {
+      "hash": "f5bd5f29aefa9951b59e0a8d4f5ee602b2e877dc9a4d26bbdd52a9c0d0995a9f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101239_1": {
+      "hash": "47445c52ea1095433ea836f7ab2adf613fe5fe712d392478ef48047c72f5110d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_102222_1": {
+      "hash": "d68b3ed0b5cb04f80da3b4eb8a47bc03d7ca161ad62b81a456686f1d78ef8509",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_118938_1": {
+      "hash": "52df915d38104c9da8bcc018c8002520c84d68584b209b2c92d568bcaf3dfcaf",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_94721_1": {
+      "hash": "67862cde7caad272d05ec8ce2afdacd0267ccac247fe24d6ddd6aff77be93a48",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_98162_1": {
+      "hash": "8e17a7934570c9b171d0a4b0a6fdb805432db68a30d6c3114c0ac832bec20f99",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117658_1": {
+      "hash": "a02bd3608f49886b8fcdec9ddaaa3b25c6061e15bf00f85d94fb4d2f4967635c",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_121546_1": {
+      "hash": "2078bcdb4af1607127a59f5ea085cd067ac5dc768113295bd1da78b1d79f4c4f",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100295_1": {
+      "hash": "d7d06a795233bbd951669d7ca22b986d4862526b784a02a2f6ae3e5199e587a4",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117567_1": {
+      "hash": "32b9ce97989aac9f01a828e128740e406615c354165b6cbe424a26007b1430ca",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_119374_1": {
+      "hash": "4969c944a7b6274e10c032b247769bf7bacb5aa69fe39f7d2f9e9e207ab2b947",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_107494_1": {
+      "hash": "3db458e21ea833cfc7f464da47ed33201d179ced41e90a3a9170c91f6b7bdef1",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100249_1": {
+      "hash": "89d235c2778cb63a2414d56c7e13cee25883ad262d0c6428abd092a0425558bc",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_101972_1": {
+      "hash": "db126791ccd163f577088ceb1728ddcae77d13a3a0bcadb03e2c3945b89d2e08",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117674_1": {
+      "hash": "72b2b8b25acba715c0ac5f936f92b8cbf24196f2b884c7dc501c47e07ee727a0",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117645_1": {
+      "hash": "1035d72d64f4e025bf746b0b0326eb814b931b6709228d51f2f018ef84160627",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_104656_1": {
+      "hash": "51ad3b32f3ed905cb19a1e492dc42ac1642919d9eb11451f9757da1e5ca4c002",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_125056_1": {
+      "hash": "b0bebe1ed0472695df69ba675be172cb9ab056e1b45a3afcc9f51ed1e052b15d",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_98163_1": {
+      "hash": "41c7f32c9d12527d233820b6471dc66636969ea637aea86d500721827299bb90",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103355_1": {
+      "hash": "393ebccd6d0fdec0d7eb202c91b096e7c4ae807f21980ee6532d65342e833d22",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117651_1": {
+      "hash": "f7c1e6043a840923223622f88cf05b198a3fb1415d7c53281fc52470e855c3d9",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_94494_1": {
+      "hash": "e84bd12226262177ed8e5dcf9f5e7de8179b035381a9d988f1a91da5adec1d82",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117801_1": {
+      "hash": "f159b6dd62f24b3db2722f549a2bdd77abd40fe584d80444e55fd0d5b2d7712d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_100322_1": {
+      "hash": "dc73fe51321c44043d9a5a39efb476465ac654b74290eaedfd5f555b9ffdc5a2",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_97399_1": {
+      "hash": "26963ae3d0e19ae9aabec018b3682107fb0ff5b5c92006021416114655a0c74d",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_98984_1": {
+      "hash": "e4488ad77444730084f5ec6dca35fa27804a435ad82b45fe379274b4e3fdec2b",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_103225_1": {
+      "hash": "375732a19cea13351b6257741601785e0809469826b9750fcea1bb2758b5d487",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_99331_1": {
+      "hash": "cd0b7d8793a6a5cce8d2602ee9d82c681cbbbf582008fb55ce167071770f4cb4",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_117622_1": {
+      "hash": "43308f5a0dcedae9b01de5d15b2efbe93cdedb722dfb96c6826a695de6e860c0",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.data.calendar.CalendarEntry-_122446_1": {
+      "hash": "a4c898242ddeff936eaebcdea8217ee5447c6027085f6662881ccc39d836eaae",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "_blackboard.platform.gradebook2.GradableItem-_31942_1": {
+      "hash": "27b4673a97a0abf5feb0fcd9afe0c3e6a561b1a75b4b70ff00a6e947567fe488",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-09-28-0900@unisr-provisional": {
+      "hash": "da1ae297e7f4ebf1a4e84ca174655f8d73560108b2c5c2c9a444b88da0dd525e",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-09-28-1400@unisr-provisional": {
+      "hash": "3fff0629e67e1f0153461e419a705164760d35e3b311ba630b2ce686db8c7ec2",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-09-29-0900@unisr-provisional": {
+      "hash": "145eacebebdfdd74b7b0bfe0f06d366f54f65b8b02864c3bbbaaa17f707a445e",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-09-30-0900@unisr-provisional": {
+      "hash": "c50d8bcd73c46c9e8a91761500fbaa55e2b1473b681560fc9bd8018779f8a243",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-10-05-0900@unisr-provisional": {
+      "hash": "834aed22beb850299ed9c7393c54c252363fe4d6063ea25f2cbdcb1964d6b712",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-10-05-1400@unisr-provisional": {
+      "hash": "4abc2072d0944be365348f6c8e32fbe715705bac0af4fd1236fa23c2c2531019",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-06-1100@unisr-provisional": {
+      "hash": "28b86073879396a393f73385457715c2fcd9f6886c02467d46569b096439c285",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-06-1400@unisr-provisional": {
+      "hash": "f414b91eb986b7eb42c600f56fe68a9bd4a924eb19ff490c296f9063fbea2e8b",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-07-0900@unisr-provisional": {
+      "hash": "b7e76faf29b6b4deba06617874c2a5ca7bddd76c76ed71617103c14ee52af82f",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-10-07-1400@unisr-provisional": {
+      "hash": "f4156b99bc9dafdd66dbc80ae3ec443dc6ab78416d81a36dc5693835ff687be9",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-08-0900@unisr-provisional": {
+      "hash": "da277cb2fce0af0a7fcd7235998d9d1ea4893a430976f63fd03999b192648ef2",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-10-12-0900@unisr-provisional": {
+      "hash": "92e1a6c520744f6312747074ae0e636dafbd316ea13167ecd2e1133c68d60cfa",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-12-1600@unisr-provisional": {
+      "hash": "7a858de8b97c354b4ed2a1f1f6fcc01412865f256c4d83b79a4385e603f98a36",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-10-12-1400@unisr-provisional": {
+      "hash": "31061636c215551b3fdec4475ceefdbab28517e4d8fed362a3efa59717330797",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-14-0900@unisr-provisional": {
+      "hash": "f9c30a1ab2a351dcf2d600fa6e8d8b91d725eeaf7f19fc078edeee1c84277ef9",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-10-15-0900@unisr-provisional": {
+      "hash": "42690b375843505748202fb7e0817508aaf99ab8614d409f188609ababa4a4f4",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-10-19-0900@unisr-provisional": {
+      "hash": "a0895a0f2d7089a6508f62e54ada0660d53ae3080a70d5f38b74f6303df7e69b",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-10-19-1400@unisr-provisional": {
+      "hash": "106bea68b6943c860b68837c0bfc6aa987b4b888dfbfbd9cd4bd9ac7e081fcf4",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-20-1100@unisr-provisional": {
+      "hash": "c30244dd963895d030388b646eed49dc4c610a5817ee3c819327b34abbe4e4a5",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-20-1400@unisr-provisional": {
+      "hash": "b808a4c0daf75de1c0224406a60dc9241ac012cb725e814c8f02a9f65a483e18",
+      "sequence": 0,
+      "modified": "2026-09-22T09:09:18+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-21-0900@unisr-provisional": {
+      "hash": "40c5b6aa89d71bf4fdd0f634c510a367530338eb8103fc9afad8dedb72b0410d",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-22-0900@unisr-provisional": {
+      "hash": "a4e981aea349e09d0037913fdcf2815cde18c7c3e02dc4aaa6a64f0d15b89ee0",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-22-1400@unisr-provisional": {
+      "hash": "f0d78ad7a60bfd4feb1069a7b94253b1084d603c1263035c5f3e53de4a97fcf6",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-10-26-0900@unisr-provisional": {
+      "hash": "b0c97c35f99ffff8d66fa7140bce3b2a5927b64632ffe0159249a114641d510f",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-10-26-1400@unisr-provisional": {
+      "hash": "4461fe534d26224082e8991d329361260f2d44dcee007cdbe6a8d56fc87a4707",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-27-1100@unisr-provisional": {
+      "hash": "c738ab313745c9d1923457aa238cdc340d18224065442063e6ea78dc6621f3ab",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-27-1400@unisr-provisional": {
+      "hash": "3b572f18f088b11c726a5b570c71640b3c70202c47814c37e3fc6c5adaad2d50",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-28-0900@unisr-provisional": {
+      "hash": "7c884ab8b06c96451b717ac25363afed757751af3f5d1cde5eb11045a24112d6",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-28-1400@unisr-provisional": {
+      "hash": "749cb796430c996917a4301a5326d9c1531f840312b1514890c37c4263fbe172",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-10-29-0900@unisr-provisional": {
+      "hash": "ee78bc97b1e0c8e9814b86179e910ce07f522d47dfc4cdfc9389e520a62ac67c",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-10-29-1400@unisr-provisional": {
+      "hash": "b8fd9de632d35395d15019248d50002e6713bdc9aa7dcbbed20ba3882bb03efc",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-11-02-0900@unisr-provisional": {
+      "hash": "9762172abdb0eaa7e20c68ed688e91890d157f086294a48339ba2640dc3b20ac",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-11-02-1400@unisr-provisional": {
+      "hash": "ac0b2a0e336f295ead197962323ebc092f9d4fcfe2bfeca2772b08c6eb836cd8",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-04-0900@unisr-provisional": {
+      "hash": "0a33c45f06b3f6297984972ceaabbca495bc8a21d56c83787b065f537fb5214a",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-11-04-1400@unisr-provisional": {
+      "hash": "7d69662312a3ed077cb32248e114dbda002e978fd57984f162429fd48514083e",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-05-0900@unisr-provisional": {
+      "hash": "e0ef7780c284a476e3f3c5745822bfadb8d2077f3bf53c062f7474614080330f",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-radiomics-2026-11-05-1400@unisr-provisional": {
+      "hash": "42503a6910459767e49ff6bb0eab6eda465d84e6bf4384f5259cb7356bf2a4ec",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-11-09-0900@unisr-provisional": {
+      "hash": "c59f6b30f2e44d7cc8c85c0d0c5b2430d435a0488f7d5dd772861037a1ce8de5",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-11-09-1400@unisr-provisional": {
+      "hash": "c64d8decd8e7fcd2e220d8ecf4c67794ee7b88f1c26a571eae8c4ab9bcf9fb78",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-11-0900@unisr-provisional": {
+      "hash": "d8e75eb785b63420e2dfd9ac026043fa305394624370bae1c2f2c77b7850bb67",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-11-1400@unisr-provisional": {
+      "hash": "17f6ed0bd4bd39754850039025f1540ae052258c90f28c87523a6129ad651f22",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-12-0900@unisr-provisional": {
+      "hash": "11b204b6e038c17d3f79741c73f66097427aa5187719a486fc1a9e6a90b19866",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-11-12-1400@unisr-provisional": {
+      "hash": "ff0d283239a2a6d7456e8baa9a88dc78220a459c6395f7c37b6f00d3d5e30b3d",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-11-16-0900@unisr-provisional": {
+      "hash": "acb4f7dcfdc09aeadfc98f228ea3634ce5b629002abe99d863d1cc7f4a31fa74",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-11-16-1400@unisr-provisional": {
+      "hash": "09080a96b7530469b45cfd3aba5e0e570c42a937774bc29106e8af5dd25da386",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-18-0900@unisr-provisional": {
+      "hash": "ba56647aba8899d24969b8deb74b70ba8c8906d60784169918e0303616cead59",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-19-0900@unisr-provisional": {
+      "hash": "9931da4670a84b8d8af00c452c46a8f1a7177ed089a4cc26315857370f2a15fa",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-11-19-1400@unisr-provisional": {
+      "hash": "68e7b3b24e46f71f26febd5dbd5248f162bae9312638d1ec446fadebe2523bb4",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-11-23-0900@unisr-provisional": {
+      "hash": "bb6f4440d3090180550e2a649d20a30f30fed6b5cd7513e533779ff021f582cf",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-25-0900@unisr-provisional": {
+      "hash": "0c9806dea1e7b650eaca8d49eef68f41bd36127400f3490a3192a1610c73ac2d",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-25-1400@unisr-provisional": {
+      "hash": "514c58aff628721249d3a2cced79e4b849fa4f499d7089e536a24b3dee5741b3",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-11-26-0900@unisr-provisional": {
+      "hash": "9dca0851976934377693968c6c434fab5ec0027476d05e93e851889f47460b96",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-11-30-0900@unisr-provisional": {
+      "hash": "d2feecf954119321855cbe7ddb6793a8db3f1645bbc6fcd8443860b171bfb1dc",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-wearable_devices-2026-12-02-0900@unisr-provisional": {
+      "hash": "7ed1d0bb3f36fc24d5a60fec3badaa92675574945ea511e9ce41446907d42ead",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-12-03-0900@unisr-provisional": {
+      "hash": "1a36e1fe5c88d9d81ff3a4ef908e2198a55f7cf8001eda8196faf2ada122e2e9",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-12-09-0900@unisr-provisional": {
+      "hash": "3f060ddd21d74794e95f7b82068d975dd3d2cba035831e754c3ad0a1dc3ab2a7",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-12-10-0900@unisr-provisional": {
+      "hash": "038ad60e77e16472efa7e956aaefefd0089f72c460da9e0c27f1ace911976051",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-human_machine_interaction-2026-12-14-0900@unisr-provisional": {
+      "hash": "41b9bfa75e6156938dca0afc357581567dbd66e95387827b650073d092146bb5",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-12-16-0900@unisr-provisional": {
+      "hash": "194a945e8516712caa774a14cc43912466893fadc81c2722b1ff2039c65abc53",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "pdf-2026-machine_learning-2026-12-17-0900@unisr-provisional": {
+      "hash": "921cebeb48360ed8578c73233d9cb647988ccdb818aa3c6d5d7c373e5e07a246",
+      "sequence": 1,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "orario-adb0b6eae0b07d6c0cc26c70@unisr": {
+      "hash": "1419e0215bb1771762221c59bc16af733a01e6fb641bfe2257554c72d1d21f47",
+      "sequence": 0,
+      "modified": "2026-09-22T09:16:11+00:00"
+    },
+    "orario-b0be492436f59eaca41ac191@unisr": {
+      "hash": "27d65ce36aae3a71ce8fee5747cbfa7fee2ad43b5c93c7101b92d78e46d91d35",
+      "sequence": 0,
+      "modified": "2026-09-22T09:16:11+00:00"
+    }
+  },
+  "orario_ids": {
+    "machine_learning|2026-09-23|09:00": {
+      "group": "machine_learning|2026-09-23",
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125056_1"
+    },
+    "wearable_devices|2026-09-24|09:00": {
+      "group": "wearable_devices|2026-09-24",
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125180_1"
+    },
+    "radiomics|2026-09-24|14:00": {
+      "group": "radiomics|2026-09-24",
+      "uid": "_blackboard.data.calendar.CalendarEntry-_125181_1"
+    },
+    "human_machine_interaction|2026-09-28|09:00": {
+      "group": "human_machine_interaction|2026-09-28",
+      "uid": "orario-627b079faef0eccf16989f2c@unisr"
+    },
+    "wearable_devices|2026-09-28|14:00": {
+      "group": "wearable_devices|2026-09-28",
+      "uid": "orario-5c86c60fc7b7c5b211911d8c@unisr"
+    },
+    "wearable_devices|2026-09-29|09:00": {
+      "group": "wearable_devices|2026-09-29",
+      "uid": "orario-d63fec9f88a3d86ebbd34c52@unisr"
+    },
+    "machine_learning|2026-09-30|09:00": {
+      "group": "machine_learning|2026-09-30",
+      "uid": "orario-b777d8b3d5b4e9d15d17f557@unisr"
+    },
+    "wearable_devices|2026-10-05|14:00": {
+      "group": "wearable_devices|2026-10-05",
+      "uid": "orario-05f2972dde5ac840de2fdcd7@unisr"
+    },
+    "radiomics|2026-10-06|11:00": {
+      "group": "radiomics|2026-10-06",
+      "uid": "orario-4e480dc80d098be058ac6d3f@unisr"
+    },
+    "radiomics|2026-10-06|14:00": {
+      "group": "radiomics|2026-10-06",
+      "uid": "orario-837587ed3ad83bbdd0a9d5b3@unisr"
+    },
+    "machine_learning|2026-10-07|09:00": {
+      "group": "machine_learning|2026-10-07",
+      "uid": "orario-e010bc3341ea0becdfef2bd9@unisr"
+    },
+    "wearable_devices|2026-10-07|14:00": {
+      "group": "wearable_devices|2026-10-07",
+      "uid": "orario-198d6dedbb226af2a5a92df5@unisr"
+    },
+    "machine_learning|2026-10-08|09:00": {
+      "group": "machine_learning|2026-10-08",
+      "uid": "orario-ba49ce358f466bd70b472b81@unisr"
+    },
+    "human_machine_interaction|2026-10-09|09:00": {
+      "group": "human_machine_interaction|2026-10-09",
+      "uid": "orario-adb0b6eae0b07d6c0cc26c70@unisr"
+    },
+    "human_machine_interaction|2026-10-12|09:00": {
+      "group": "human_machine_interaction|2026-10-12",
+      "uid": "orario-6715c7fc49542f205f86b0f0@unisr"
+    },
+    "wearable_devices|2026-10-12|14:00": {
+      "group": "wearable_devices|2026-10-12",
+      "uid": "orario-5aa8e7b2cae6233c6fd6b408@unisr"
+    },
+    "radiomics|2026-10-12|16:00": {
+      "group": "radiomics|2026-10-12",
+      "uid": "orario-ba7b83fa2f810f705ac9801c@unisr"
+    },
+    "machine_learning|2026-10-14|09:00": {
+      "group": "machine_learning|2026-10-14",
+      "uid": "orario-ceda51a63b7811a966f3cad5@unisr"
+    },
+    "wearable_devices|2026-10-15|09:00": {
+      "group": "wearable_devices|2026-10-15",
+      "uid": "orario-f743f9aaf2414e5b80fcbdd3@unisr"
+    },
+    "human_machine_interaction|2026-10-19|09:00": {
+      "group": "human_machine_interaction|2026-10-19",
+      "uid": "orario-9ffd3dc5910f76e716b08a66@unisr"
+    },
+    "wearable_devices|2026-10-19|14:00": {
+      "group": "wearable_devices|2026-10-19",
+      "uid": "orario-8bf8631cafa4a135fa4d3507@unisr"
+    },
+    "radiomics|2026-10-19|16:00": {
+      "group": "radiomics|2026-10-19",
+      "uid": "orario-b0be492436f59eaca41ac191@unisr"
+    },
+    "radiomics|2026-10-20|11:00": {
+      "group": "radiomics|2026-10-20",
+      "uid": "orario-b8a866302c27026b749f283a@unisr"
+    },
+    "machine_learning|2026-10-21|09:00": {
+      "group": "machine_learning|2026-10-21",
+      "uid": "orario-404eca742b16a3f080c2f2ba@unisr"
+    },
+    "machine_learning|2026-10-22|09:00": {
+      "group": "machine_learning|2026-10-22",
+      "uid": "orario-b10de7bb6715eb866992a9b5@unisr"
+    },
+    "radiomics|2026-10-22|14:00": {
+      "group": "radiomics|2026-10-22",
+      "uid": "orario-737a238214b687887579d76f@unisr"
+    },
+    "human_machine_interaction|2026-10-26|09:00": {
+      "group": "human_machine_interaction|2026-10-26",
+      "uid": "orario-e6d959288ec07deb8981a9db@unisr"
+    },
+    "wearable_devices|2026-10-26|14:00": {
+      "group": "wearable_devices|2026-10-26",
+      "uid": "orario-5d0316f78eb8021cdbefeeee@unisr"
+    },
+    "radiomics|2026-10-27|11:00": {
+      "group": "radiomics|2026-10-27",
+      "uid": "orario-3c56796d4864f1be3d84f477@unisr"
+    },
+    "radiomics|2026-10-27|14:00": {
+      "group": "radiomics|2026-10-27",
+      "uid": "orario-2c14ba3e153dd5faa104fda2@unisr"
+    },
+    "machine_learning|2026-10-28|09:00": {
+      "group": "machine_learning|2026-10-28",
+      "uid": "orario-924fd6ae3016ff7c641a7d45@unisr"
+    },
+    "radiomics|2026-10-28|14:00": {
+      "group": "radiomics|2026-10-28",
+      "uid": "orario-a4d0355d2e9cc5564c815f3a@unisr"
+    },
+    "machine_learning|2026-10-29|09:00": {
+      "group": "machine_learning|2026-10-29",
+      "uid": "orario-13abe640ae09a745ca293bb3@unisr"
+    },
+    "radiomics|2026-10-29|14:00": {
+      "group": "radiomics|2026-10-29",
+      "uid": "orario-c5ba1ed683be6695535041ac@unisr"
+    },
+    "human_machine_interaction|2026-11-02|09:00": {
+      "group": "human_machine_interaction|2026-11-02",
+      "uid": "orario-4ec44f5319123d59452a194a@unisr"
+    },
+    "wearable_devices|2026-11-02|14:00": {
+      "group": "wearable_devices|2026-11-02",
+      "uid": "orario-2147da96bbb37e9b30045df6@unisr"
+    },
+    "machine_learning|2026-11-04|09:00": {
+      "group": "machine_learning|2026-11-04",
+      "uid": "orario-93d26b297c736e9da0be4f2c@unisr"
+    },
+    "wearable_devices|2026-11-04|14:00": {
+      "group": "wearable_devices|2026-11-04",
+      "uid": "orario-d2de597682e4f7899751d387@unisr"
+    },
+    "machine_learning|2026-11-05|09:00": {
+      "group": "machine_learning|2026-11-05",
+      "uid": "orario-d77061be357b95551f93ad8a@unisr"
+    },
+    "radiomics|2026-11-05|14:00": {
+      "group": "radiomics|2026-11-05",
+      "uid": "orario-52f1d1f49e889af3e9926511@unisr"
+    },
+    "human_machine_interaction|2026-11-09|09:00": {
+      "group": "human_machine_interaction|2026-11-09",
+      "uid": "orario-2fc35799880ee7eb92faf78c@unisr"
+    },
+    "wearable_devices|2026-11-09|14:00": {
+      "group": "wearable_devices|2026-11-09",
+      "uid": "orario-692e05b9e7755989a7295cc4@unisr"
+    },
+    "machine_learning|2026-11-11|09:00": {
+      "group": "machine_learning|2026-11-11",
+      "uid": "orario-6ac9d4dcd30156aecb8f7b9b@unisr"
+    },
+    "machine_learning|2026-11-11|14:00": {
+      "group": "machine_learning|2026-11-11",
+      "uid": "orario-697447f4ff3b156f58abc29d@unisr"
+    },
+    "machine_learning|2026-11-12|09:00": {
+      "group": "machine_learning|2026-11-12",
+      "uid": "orario-bd074f7f877a36ce90c2c246@unisr"
+    },
+    "wearable_devices|2026-11-12|14:00": {
+      "group": "wearable_devices|2026-11-12",
+      "uid": "orario-33b9287ed17bbab628cae35c@unisr"
+    },
+    "human_machine_interaction|2026-11-16|09:00": {
+      "group": "human_machine_interaction|2026-11-16",
+      "uid": "orario-78c7673a9ee2be2c3f1454ae@unisr"
+    },
+    "wearable_devices|2026-11-16|14:00": {
+      "group": "wearable_devices|2026-11-16",
+      "uid": "orario-efbbbb873229b227d9c6902c@unisr"
+    },
+    "machine_learning|2026-11-18|09:00": {
+      "group": "machine_learning|2026-11-18",
+      "uid": "orario-20a9c54db6d1849be64e4bf8@unisr"
+    },
+    "machine_learning|2026-11-19|09:00": {
+      "group": "machine_learning|2026-11-19",
+      "uid": "orario-7f567d0a007fa04042d14ff9@unisr"
+    },
+    "wearable_devices|2026-11-19|14:00": {
+      "group": "wearable_devices|2026-11-19",
+      "uid": "orario-9c2368fce0e620777db0af51@unisr"
+    },
+    "human_machine_interaction|2026-11-23|09:00": {
+      "group": "human_machine_interaction|2026-11-23",
+      "uid": "orario-61d8e86dd1e13f93c62a8113@unisr"
+    },
+    "machine_learning|2026-11-25|09:00": {
+      "group": "machine_learning|2026-11-25",
+      "uid": "orario-fea834e94d9c1c60a153e372@unisr"
+    },
+    "machine_learning|2026-11-25|14:00": {
+      "group": "machine_learning|2026-11-25",
+      "uid": "orario-f2357e26cdb9fef706096f73@unisr"
+    },
+    "machine_learning|2026-11-26|09:00": {
+      "group": "machine_learning|2026-11-26",
+      "uid": "orario-34b34e9768d99169e8a83cda@unisr"
+    },
+    "human_machine_interaction|2026-11-30|09:00": {
+      "group": "human_machine_interaction|2026-11-30",
+      "uid": "orario-7dc0ae0669e5f0da5b3014c1@unisr"
+    },
+    "wearable_devices|2026-12-02|09:00": {
+      "group": "wearable_devices|2026-12-02",
+      "uid": "orario-a89b0eca46ae5aaec5ff34ca@unisr"
+    },
+    "machine_learning|2026-12-03|09:00": {
+      "group": "machine_learning|2026-12-03",
+      "uid": "orario-9b28145248a0e766a0a16440@unisr"
+    },
+    "machine_learning|2026-12-09|09:00": {
+      "group": "machine_learning|2026-12-09",
+      "uid": "orario-0aacc530f1ddccfb5b32896d@unisr"
+    },
+    "machine_learning|2026-12-10|09:00": {
+      "group": "machine_learning|2026-12-10",
+      "uid": "orario-52324f8cc6f5a186dfb11f60@unisr"
+    },
+    "human_machine_interaction|2026-12-14|09:00": {
+      "group": "human_machine_interaction|2026-12-14",
+      "uid": "orario-3c24cb106183e6ef3e00929f@unisr"
+    },
+    "machine_learning|2026-12-16|09:00": {
+      "group": "machine_learning|2026-12-16",
+      "uid": "orario-0515343de40e3c203940ccc1@unisr"
+    },
+    "machine_learning|2026-12-17|09:00": {
+      "group": "machine_learning|2026-12-17",
+      "uid": "orario-85c9ae10795cd2dc03cecde2@unisr"
+    }
+  },
+  "official_aliases": {
+    "_blackboard.data.calendar.CalendarEntry-_125056_1": "_blackboard.data.calendar.CalendarEntry-_125056_1",
+    "_blackboard.data.calendar.CalendarEntry-_125180_1": "_blackboard.data.calendar.CalendarEntry-_125180_1",
+    "_blackboard.data.calendar.CalendarEntry-_125181_1": "_blackboard.data.calendar.CalendarEntry-_125181_1"
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "matched": [
+    {
+      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125056_1",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-09-23-0900"
+      ]
+    },
+    {
+      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125180_1",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-09-24-0900"
+      ]
+    },
+    {
+      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125181_1",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-09-24-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-627b079faef0eccf16989f2c@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-09-28-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-5c86c60fc7b7c5b211911d8c@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-09-28-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-d63fec9f88a3d86ebbd34c52@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-09-29-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-b777d8b3d5b4e9d15d17f557@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-09-30-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-05f2972dde5ac840de2fdcd7@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-10-05-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-4e480dc80d098be058ac6d3f@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-06-1100"
+      ]
+    },
+    {
+      "blackboard_key": "orario-837587ed3ad83bbdd0a9d5b3@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-06-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-e010bc3341ea0becdfef2bd9@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-07-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-198d6dedbb226af2a5a92df5@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-10-07-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-ba49ce358f466bd70b472b81@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-08-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-6715c7fc49542f205f86b0f0@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-10-12-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-5aa8e7b2cae6233c6fd6b408@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-10-12-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-ba7b83fa2f810f705ac9801c@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-12-1600"
+      ]
+    },
+    {
+      "blackboard_key": "orario-ceda51a63b7811a966f3cad5@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-14-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-f743f9aaf2414e5b80fcbdd3@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-10-15-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-9ffd3dc5910f76e716b08a66@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-10-19-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-8bf8631cafa4a135fa4d3507@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-10-19-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-b8a866302c27026b749f283a@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-20-1100"
+      ]
+    },
+    {
+      "blackboard_key": "orario-404eca742b16a3f080c2f2ba@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-21-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-b10de7bb6715eb866992a9b5@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-22-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-737a238214b687887579d76f@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-22-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-e6d959288ec07deb8981a9db@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-10-26-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-5d0316f78eb8021cdbefeeee@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-10-26-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-3c56796d4864f1be3d84f477@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-27-1100"
+      ]
+    },
+    {
+      "blackboard_key": "orario-2c14ba3e153dd5faa104fda2@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-27-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-924fd6ae3016ff7c641a7d45@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-28-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-a4d0355d2e9cc5564c815f3a@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-28-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-13abe640ae09a745ca293bb3@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-10-29-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-c5ba1ed683be6695535041ac@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-10-29-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-4ec44f5319123d59452a194a@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-11-02-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-2147da96bbb37e9b30045df6@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-11-02-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-93d26b297c736e9da0be4f2c@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-04-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-d2de597682e4f7899751d387@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-11-04-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-d77061be357b95551f93ad8a@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-05-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-52f1d1f49e889af3e9926511@unisr",
+      "pdf_ids": [
+        "pdf-2026-radiomics-2026-11-05-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-2fc35799880ee7eb92faf78c@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-11-09-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-692e05b9e7755989a7295cc4@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-11-09-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-6ac9d4dcd30156aecb8f7b9b@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-11-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-697447f4ff3b156f58abc29d@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-11-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-bd074f7f877a36ce90c2c246@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-12-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-33b9287ed17bbab628cae35c@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-11-12-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-78c7673a9ee2be2c3f1454ae@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-11-16-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-efbbbb873229b227d9c6902c@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-11-16-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-20a9c54db6d1849be64e4bf8@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-18-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-7f567d0a007fa04042d14ff9@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-19-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-9c2368fce0e620777db0af51@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-11-19-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-61d8e86dd1e13f93c62a8113@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-11-23-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-fea834e94d9c1c60a153e372@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-25-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-f2357e26cdb9fef706096f73@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-25-1400"
+      ]
+    },
+    {
+      "blackboard_key": "orario-34b34e9768d99169e8a83cda@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-11-26-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-7dc0ae0669e5f0da5b3014c1@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-11-30-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-a89b0eca46ae5aaec5ff34ca@unisr",
+      "pdf_ids": [
+        "pdf-2026-wearable_devices-2026-12-02-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-9b28145248a0e766a0a16440@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-12-03-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-0aacc530f1ddccfb5b32896d@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-12-09-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-52324f8cc6f5a186dfb11f60@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-12-10-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-3c24cb106183e6ef3e00929f@unisr",
+      "pdf_ids": [
+        "pdf-2026-human_machine_interaction-2026-12-14-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-0515343de40e3c203940ccc1@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-12-16-0900"
+      ]
+    },
+    {
+      "blackboard_key": "orario-85c9ae10795cd2dc03cecde2@unisr",
+      "pdf_ids": [
+        "pdf-2026-machine_learning-2026-12-17-0900"
+      ]
+    }
+  ],
+  "review": [],
+  "missing_previously_matched": [],
+  "provisional": [],
+  "orario": {
+    "mode": "cache_only",
+    "from": "2026-09-23",
+    "through": "2026-12-21",
+    "failures": []
+  },
+  "orario_over_blackboard": [
+    {
+      "orario_uid": "_blackboard.data.calendar.CalendarEntry-_125056_1",
+      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125056_1"
+    },
+    {
+      "orario_uid": "_blackboard.data.calendar.CalendarEntry-_125180_1",
+      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125180_1"
+    },
+    {
+      "orario_uid": "_blackboard.data.calendar.CalendarEntry-_125181_1",
+      "blackboard_key": "_blackboard.data.calendar.CalendarEntry-_125181_1"
+    }
+  ],
+  "blackboard_only": [],
+  "priority": [
+    "ORARIO",
+    "BLACKBOARD"
+  ],
+  "pdf_enabled": false,
+  "blackboard_error": null,
+  "override_notes": {},
+  "counts": {
+    "seminars": {},
+    "machine_learning": {
+      "ORARIO": 24
+    },
+    "human_machine_interaction": {
+      "ORARIO": 11
+    },
+    "wearable_devices": {
+      "ORARIO": 16
+    },
+    "radiomics": {
+      "ORARIO": 12
+    }
+  }
+}

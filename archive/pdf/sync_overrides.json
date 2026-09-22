@@ -1,0 +1,15 @@
+{
+  "matches": {
+    "orario-adb0b6eae0b07d6c0cc26c70@unisr": [
+      "pdf-2026-human_machine_interaction-2026-10-05-0900"
+    ],
+    "orario-b0be492436f59eaca41ac191@unisr": [
+      "pdf-2026-radiomics-2026-10-20-1400"
+    ]
+  },
+  "suppress": [],
+  "notes": {
+    "orario-adb0b6eae0b07d6c0cc26c70@unisr": "Abbinamento dedotto il 22/09/2026: unica lezione HMI non abbinata nella settimana 5-9 ottobre, uguale durata 4 ore. PDF 5 ottobre 09-13; Orario 9 ottobre 09-13. Orario ha priorità.",
+    "orario-b0be492436f59eaca41ac191@unisr": "Abbinamento dedotto il 22/09/2026: unico blocco Radiomics non abbinato nella settimana 19-23 ottobre, stesso docente Traverso e durata 2 ore. PDF 20 ottobre 14-16; Orario 19 ottobre 16-18. Orario ha priorità."
+  }
+}

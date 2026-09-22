@@ -2,39 +2,48 @@ name: Update Calendars
 
 on:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'unisr_calendar/**'
+      - 'sync_calendars.py'
+      - 'courses.py'
+      - 'calendar_config.json'
+      - 'requirements.txt'
+      - '.github/workflows/update-calendars.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendars
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 20
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
-
+          python-version: '3.12'
       - name: Install dependencies
-        run: pip install requests
-
-      - name: Generate personal calendar
-        run: python filter_calendar.py
-
-      - name: Generate shared calendar
-        run: python filter_calendar_shared.py
-
-      - name: Generate course calendars
-        run: python generate_course_calendars.py
-
-      - name: Commit & push updates
+        run: pip install -r requirements.txt
+      - name: Verify synchronization
+        run: python -m unittest discover -s tests -q
+      - name: Generate calendars
+        run: python sync_calendars.py
+      - name: Publish updated subscription files
         run: |
           git config user.name "calendar-bot"
           git config user.email "bot@github.com"
-          git add *.ics
-          git commit -m "auto update calendars" || echo "No changes"
+          git add calendars/ data/ shared_calendar.ics filtered_calendar.ics
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update UniSR calendar subscriptions"
           git pull --rebase
           git push

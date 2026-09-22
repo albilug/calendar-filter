@@ -1,0 +1,2 @@
+# ICS uses CRLF; line folding can legally leave a space before CRLF.
+*.ics -text whitespace=cr-at-eol,-blank-at-eol

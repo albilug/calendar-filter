@@ -1,0 +1,591 @@
+{
+  "source": "Timetable Year 2_Sem 1 AY 26_27.pdf",
+  "timezone": "Europe/Rome",
+  "sessions": [
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-09-21",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 1,
+      "id": "pdf-2026-human_machine_interaction-2026-09-21-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-09-21",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-09-21-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-09-23",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-09-23-0900"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-09-24",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics -Palmisano",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-09-24-1400"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-09-24",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Wearable devices - LEZ Angelucci",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-09-24-0900"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-09-28",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 1,
+      "id": "pdf-2026-human_machine_interaction-2026-09-28-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-09-28",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-09-28-1400"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-09-29",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Wearable devices - LEZ Angelucci",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-09-29-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-09-30",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-09-30-0900"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-10-05",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 1,
+      "id": "pdf-2026-human_machine_interaction-2026-10-05-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-10-05",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-10-05-1400"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-06",
+      "start": "11:00",
+      "end": "13:00",
+      "detail": "Images in Healthcare: Radiomics - Esposito",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-10-06-1100"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-06",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics - Traverso",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-10-06-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-07",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-10-07-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-10-07",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-10-07-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-08",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-10-08-0900"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-10-12",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 1,
+      "id": "pdf-2026-human_machine_interaction-2026-10-12-0900"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-12",
+      "start": "16:00",
+      "end": "18:00",
+      "detail": "Images in Healthcare: Radiomics -Traverso",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-10-12-1600"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-10-12",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-10-12-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-14",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-10-14-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-10-15",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Wearable devices - LEZ Angelucci",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-10-15-0900"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-10-19",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 1,
+      "id": "pdf-2026-human_machine_interaction-2026-10-19-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-10-19",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 1,
+      "id": "pdf-2026-wearable_devices-2026-10-19-1400"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-20",
+      "start": "11:00",
+      "end": "13:00",
+      "detail": "Images in Healthcare: Radiomics -Castellano",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-10-20-1100"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-20",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics - Traverso",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-10-20-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-21",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-10-21-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-22",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 1,
+      "id": "pdf-2026-machine_learning-2026-10-22-0900"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-22",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics -Chiti",
+      "page": 1,
+      "id": "pdf-2026-radiomics-2026-10-22-1400"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-10-26",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 2,
+      "id": "pdf-2026-human_machine_interaction-2026-10-26-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-10-26",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Angelucci",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-10-26-1400"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-27",
+      "start": "11:00",
+      "end": "13:00",
+      "detail": "Images in Healthcare: Radiomics -Di Muzio",
+      "page": 2,
+      "id": "pdf-2026-radiomics-2026-10-27-1100"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-27",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics -Traverso",
+      "page": 2,
+      "id": "pdf-2026-radiomics-2026-10-27-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-28",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-10-28-0900"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-28",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics -Mazza",
+      "page": 2,
+      "id": "pdf-2026-radiomics-2026-10-28-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-10-29",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-10-29-0900"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-10-29",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics -Mazza",
+      "page": 2,
+      "id": "pdf-2026-radiomics-2026-10-29-1400"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-11-02",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 2,
+      "id": "pdf-2026-human_machine_interaction-2026-11-02-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-11-02",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-11-02-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-04",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-04-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-11-04",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - LEZ Consolo",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-11-04-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-05",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-05-0900"
+    },
+    {
+      "course": "radiomics",
+      "date": "2026-11-05",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Images in Healthcare: Radiomics -Cittaro",
+      "page": 2,
+      "id": "pdf-2026-radiomics-2026-11-05-1400"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-11-09",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 2,
+      "id": "pdf-2026-human_machine_interaction-2026-11-09-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-11-09",
+      "start": "14:00",
+      "end": "16:00",
+      "detail": "Wearable devices - ESE Consolo",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-11-09-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-11",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-11-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-11",
+      "start": "14:00",
+      "end": "18:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-11-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-12",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-12-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-11-12",
+      "start": "14:00",
+      "end": "18:00",
+      "detail": "Wearable devices - ESE Perricone",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-11-12-1400"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-11-16",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 2,
+      "id": "pdf-2026-human_machine_interaction-2026-11-16-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-11-16",
+      "start": "14:00",
+      "end": "18:00",
+      "detail": "Wearable devices - ESE Consolo",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-11-16-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-18",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-18-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-19",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-19-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-11-19",
+      "start": "14:00",
+      "end": "18:00",
+      "detail": "Wearable devices - ESE Perricone",
+      "page": 2,
+      "id": "pdf-2026-wearable_devices-2026-11-19-1400"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-11-23",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 2,
+      "id": "pdf-2026-human_machine_interaction-2026-11-23-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-25",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-25-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-25",
+      "start": "14:00",
+      "end": "18:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-25-1400"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-11-26",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 2,
+      "id": "pdf-2026-machine_learning-2026-11-26-0900"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-11-30",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 3,
+      "id": "pdf-2026-human_machine_interaction-2026-11-30-0900"
+    },
+    {
+      "course": "wearable_devices",
+      "date": "2026-12-02",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Wearable devices - ESE Consolo",
+      "page": 3,
+      "id": "pdf-2026-wearable_devices-2026-12-02-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-12-03",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 3,
+      "id": "pdf-2026-machine_learning-2026-12-03-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-12-09",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 3,
+      "id": "pdf-2026-machine_learning-2026-12-09-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-12-10",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 3,
+      "id": "pdf-2026-machine_learning-2026-12-10-0900"
+    },
+    {
+      "course": "human_machine_interaction",
+      "date": "2026-12-14",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Human machine interaction",
+      "page": 3,
+      "id": "pdf-2026-human_machine_interaction-2026-12-14-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-12-16",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 3,
+      "id": "pdf-2026-machine_learning-2026-12-16-0900"
+    },
+    {
+      "course": "machine_learning",
+      "date": "2026-12-17",
+      "start": "09:00",
+      "end": "13:00",
+      "detail": "Advanced topics in Machine Learning and Neural Networks",
+      "page": 3,
+      "id": "pdf-2026-machine_learning-2026-12-17-0900"
+    }
+  ]
+}
