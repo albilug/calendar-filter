@@ -2032,9 +2032,9 @@
       "modified": "2026-09-22T09:09:18+00:00"
     },
     "pdf-2026-machine_learning-2026-10-21-0900@unisr-provisional": {
-      "hash": "87ecefc3e17716de361f226c364515df005b3caec6aefb14e70ab06d22b70dce",
-      "sequence": 2,
-      "modified": "2026-09-22T09:48:28+00:00"
+      "hash": "a2153ba917f7bef6d37e258fe51df23c8d51b8b83c718a1559c6167ef4fefde0",
+      "sequence": 3,
+      "modified": "2026-09-25T17:12:43+00:00"
     },
     "pdf-2026-machine_learning-2026-10-22-0900@unisr-provisional": {
       "hash": "8f0a360e3c64f022159b92dbc19432ea063eeba61994d6ed215a850891be68e6",
@@ -2494,6 +2494,10 @@
     "machine_learning|2026-12-17|09:00": {
       "group": "machine_learning|2026-12-17",
       "uid": "orario-85c9ae10795cd2dc03cecde2@unisr"
+    },
+    "machine_learning|2026-10-21|14:00": {
+      "group": "machine_learning|2026-10-21",
+      "uid": "orario-404eca742b16a3f080c2f2ba@unisr"
     }
   },
   "official_aliases": {
