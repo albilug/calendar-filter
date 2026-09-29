@@ -43,12 +43,6 @@
       ]
     },
     {
-      "blackboard_key": "orario-05f2972dde5ac840de2fdcd7@unisr",
-      "pdf_ids": [
-        "pdf-2026-wearable_devices-2026-10-05-1400"
-      ]
-    },
-    {
       "blackboard_key": "orario-4e480dc80d098be058ac6d3f@unisr",
       "pdf_ids": [
         "pdf-2026-radiomics-2026-10-06-1100"
@@ -363,14 +357,15 @@
   ],
   "review": [],
   "missing_previously_matched": [
+    "orario-05f2972dde5ac840de2fdcd7@unisr",
     "orario-e6d959288ec07deb8981a9db@unisr"
   ],
   "provisional": [],
   "orario": {
     "from": "2026-09-23",
-    "through": "2026-12-28",
+    "through": "2026-12-29",
     "failures": [],
-    "refreshed_days": 97
+    "refreshed_days": 98
   },
   "orario_over_blackboard": [],
   "blackboard_only": [],
