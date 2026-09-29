@@ -97,6 +97,21 @@ X-UNISR-COURSE:wearable_devices
 X-UNISR-SOURCE:ORARIO
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🤝 Human Machine Interaction
+DTSTART:20260930T070000Z
+DTEND:20260930T110000Z
+DTSTAMP:20260929T125603Z
+UID:orario-6ed9cb2da1cde8258a67579f@unisr
+SEQUENCE:0
+DESCRIPTION:Human machine interaction (docente: SPITALE MICOL)
+LAST-MODIFIED:20260929T125603Z
+LOCATION:AULE VIRTUALI - Aula VIRT02 (piano terra)
+URL:https://orario.unisr.it/default.asp?ext=ok&data=30%2F09%2F2026&CDS_ID=
+ 10283&DAORA=0&ANNO_CORSO=2&id_palazzo=0&lezioni=ok&esami=ok
+X-UNISR-COURSE:human_machine_interaction
+X-UNISR-SOURCE:ORARIO
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧠 Machine Learning
 DTSTART:20260930T070000Z
 DTEND:20260930T110000Z
@@ -401,21 +416,6 @@ LOCATION:DIBIT1 - Aula PASTEUR (piano terra)
 URL:https://orario.unisr.it/default.asp?ext=ok&data=22%2F10%2F2026&CDS_ID=
  10283&DAORA=0&ANNO_CORSO=2&id_palazzo=0&lezioni=ok&esami=ok
 X-UNISR-COURSE:radiomics
-X-UNISR-SOURCE:ORARIO
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🤝 Human Machine Interaction
-DTSTART:20261026T080000Z
-DTEND:20261026T120000Z
-DTSTAMP:20260922T094828Z
-UID:pdf-2026-human_machine_interaction-2026-10-26-0900@unisr-provisional
-SEQUENCE:2
-DESCRIPTION:Human machine interaction (docente: SPITALE MICOL)
-LAST-MODIFIED:20260922T094828Z
-LOCATION:DIBIT1 - Aula PASTEUR (piano terra)
-URL:https://orario.unisr.it/default.asp?ext=ok&data=26%2F10%2F2026&CDS_ID=
- 10283&DAORA=0&ANNO_CORSO=2&id_palazzo=0&lezioni=ok&esami=ok
-X-UNISR-COURSE:human_machine_interaction
 X-UNISR-SOURCE:ORARIO
 END:VEVENT
 BEGIN:VEVENT

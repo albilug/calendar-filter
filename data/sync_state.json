@@ -2240,6 +2240,11 @@
       "hash": "db87c409aefbbc9984bac4ec2758426eefaaaeef994e4eca72a4fc32525021f1",
       "sequence": 1,
       "modified": "2026-09-22T09:48:28+00:00"
+    },
+    "orario-6ed9cb2da1cde8258a67579f@unisr": {
+      "hash": "95abaef6369aaeaa2870dbcb8721d9dbdc311ff516206da5fe3a0c70fcfbbedf",
+      "sequence": 0,
+      "modified": "2026-09-29T12:56:03+00:00"
     }
   },
   "orario_ids": {
@@ -2498,6 +2503,10 @@
     "machine_learning|2026-10-21|14:00": {
       "group": "machine_learning|2026-10-21",
       "uid": "orario-404eca742b16a3f080c2f2ba@unisr"
+    },
+    "human_machine_interaction|2026-09-30|09:00": {
+      "group": "human_machine_interaction|2026-09-30",
+      "uid": "orario-6ed9cb2da1cde8258a67579f@unisr"
     }
   },
   "official_aliases": {
