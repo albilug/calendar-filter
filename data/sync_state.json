@@ -2250,6 +2250,11 @@
       "hash": "4cd9e1dea5b3f7f55cb44e441919168df18425f11f0d85011d1154491b454746",
       "sequence": 0,
       "modified": "2026-09-29T22:16:41+00:00"
+    },
+    "orario-b0a97ee0da45c154e81b3837@unisr": {
+      "hash": "cec0f4451329e82c7f82e8f1815523e90003c6da330f22d22968a04f9b493476",
+      "sequence": 0,
+      "modified": "2026-10-21T11:50:57+00:00"
     }
   },
   "orario_ids": {
@@ -2516,6 +2521,10 @@
     "wearable_devices|2026-10-06|09:00": {
       "group": "wearable_devices|2026-10-06",
       "uid": "orario-a6b0748066ed83a8fbbba5df@unisr"
+    },
+    "wearable_devices|2026-10-27|16:00": {
+      "group": "wearable_devices|2026-10-27",
+      "uid": "orario-b0a97ee0da45c154e81b3837@unisr"
     }
   },
   "official_aliases": {

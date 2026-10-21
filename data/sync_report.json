@@ -139,12 +139,6 @@
       ]
     },
     {
-      "blackboard_key": "orario-5d0316f78eb8021cdbefeeee@unisr",
-      "pdf_ids": [
-        "pdf-2026-wearable_devices-2026-10-26-1400"
-      ]
-    },
-    {
       "blackboard_key": "orario-3c56796d4864f1be3d84f477@unisr",
       "pdf_ids": [
         "pdf-2026-radiomics-2026-10-27-1100"
@@ -358,7 +352,8 @@
   "review": [],
   "missing_previously_matched": [
     "orario-05f2972dde5ac840de2fdcd7@unisr",
-    "orario-e6d959288ec07deb8981a9db@unisr"
+    "orario-e6d959288ec07deb8981a9db@unisr",
+    "orario-5d0316f78eb8021cdbefeeee@unisr"
   ],
   "provisional": [],
   "orario": {
