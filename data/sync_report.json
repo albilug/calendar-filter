@@ -151,12 +151,6 @@
       ]
     },
     {
-      "blackboard_key": "orario-924fd6ae3016ff7c641a7d45@unisr",
-      "pdf_ids": [
-        "pdf-2026-machine_learning-2026-10-28-0900"
-      ]
-    },
-    {
       "blackboard_key": "orario-a4d0355d2e9cc5564c815f3a@unisr",
       "pdf_ids": [
         "pdf-2026-radiomics-2026-10-28-1400"
@@ -353,7 +347,8 @@
   "missing_previously_matched": [
     "orario-05f2972dde5ac840de2fdcd7@unisr",
     "orario-e6d959288ec07deb8981a9db@unisr",
-    "orario-5d0316f78eb8021cdbefeeee@unisr"
+    "orario-5d0316f78eb8021cdbefeeee@unisr",
+    "orario-924fd6ae3016ff7c641a7d45@unisr"
   ],
   "provisional": [],
   "orario": {
@@ -372,7 +367,7 @@
   "counts": {
     "seminars": {},
     "machine_learning": {
-      "ORARIO": 24
+      "ORARIO": 23
     },
     "human_machine_interaction": {
       "ORARIO": 11
