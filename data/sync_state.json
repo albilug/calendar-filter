@@ -2265,6 +2265,11 @@
       "hash": "d239bf55546141531ce6595747f2bf7932cd75ed95628ee623f94bf732bef50f",
       "sequence": 0,
       "modified": "2026-10-28T22:36:35+00:00"
+    },
+    "orario-934046e3e556456fd621e8ea@unisr": {
+      "hash": "0af3ea8c0e664dd31fb3037d496acc152225721e66882898ff2e9495c32efda9",
+      "sequence": 0,
+      "modified": "2026-10-30T12:58:20+00:00"
     }
   },
   "orario_ids": {
@@ -2543,6 +2548,10 @@
     "radiomics|2026-12-02|14:00": {
       "group": "radiomics|2026-12-02",
       "uid": "orario-7319dfbe4ac015cb9dfa2ecc@unisr"
+    },
+    "human_machine_interaction|2026-10-30|09:00": {
+      "group": "human_machine_interaction|2026-10-30",
+      "uid": "orario-934046e3e556456fd621e8ea@unisr"
     }
   },
   "official_aliases": {
