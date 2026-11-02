@@ -137,12 +137,12 @@ BEGIN:VEVENT
 SUMMARY:🧠 Machine Learning
 DTSTART:20261104T080000Z
 DTEND:20261104T120000Z
-DTSTAMP:20260922T094828Z
+DTSTAMP:20261102T155450Z
 UID:pdf-2026-machine_learning-2026-11-04-0900@unisr-provisional
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Advanced topics in Machine Learning and Neural Networks: Model
- s\, Operations\, and Management (docente: TROVO' FRANCESCO)
-LAST-MODIFIED:20260922T094828Z
+ s\, Operations\, and Management (docente: CUDRANO PAOLO)
+LAST-MODIFIED:20261102T155450Z
 LOCATION:DIBIT1 - Aula PASTEUR (piano terra)
 URL:https://orario.unisr.it/default.asp?ext=ok&data=04%2F11%2F2026&CDS_ID=
  10283&DAORA=0&ANNO_CORSO=2&id_palazzo=0&lezioni=ok&esami=ok
@@ -153,14 +153,30 @@ BEGIN:VEVENT
 SUMMARY:🧠 Machine Learning
 DTSTART:20261105T080000Z
 DTEND:20261105T120000Z
-DTSTAMP:20260922T094828Z
+DTSTAMP:20261102T155450Z
 UID:pdf-2026-machine_learning-2026-11-05-0900@unisr-provisional
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Advanced topics in Machine Learning and Neural Networks: Model
- s\, Operations\, and Management (docente: TROVO' FRANCESCO)
-LAST-MODIFIED:20260922T094828Z
+ s\, Operations\, and Management (docente: FALCETTA ALESSANDRO)
+LAST-MODIFIED:20261102T155450Z
 LOCATION:DIBIT1 - Aula PASTEUR (piano terra)
 URL:https://orario.unisr.it/default.asp?ext=ok&data=05%2F11%2F2026&CDS_ID=
+ 10283&DAORA=0&ANNO_CORSO=2&id_palazzo=0&lezioni=ok&esami=ok
+X-UNISR-COURSE:machine_learning
+X-UNISR-SOURCE:ORARIO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧠 Machine Learning
+DTSTART:20261110T080000Z
+DTEND:20261110T120000Z
+DTSTAMP:20261102T155450Z
+UID:orario-90d7ea212cddd51401020242@unisr
+SEQUENCE:0
+DESCRIPTION:Advanced topics in Machine Learning and Neural Networks: Model
+ s\, Operations\, and Management (docente: PAOLO CUDRANO)
+LAST-MODIFIED:20261102T155450Z
+LOCATION:DIBIT1 - Aula PASTEUR (piano terra)
+URL:https://orario.unisr.it/default.asp?ext=ok&data=10%2F11%2F2026&CDS_ID=
  10283&DAORA=0&ANNO_CORSO=2&id_palazzo=0&lezioni=ok&esami=ok
 X-UNISR-COURSE:machine_learning
 X-UNISR-SOURCE:ORARIO

@@ -2097,9 +2097,9 @@
       "modified": "2026-09-22T09:48:28+00:00"
     },
     "pdf-2026-machine_learning-2026-11-04-0900@unisr-provisional": {
-      "hash": "8ade0c2a20c1c6bf28daf6d5d8bac6feb6f6a7a864cb3b45850f273737718dc3",
-      "sequence": 2,
-      "modified": "2026-09-22T09:48:28+00:00"
+      "hash": "f8332f67124400bebc46e46d98e66ea3766375c238a6095d09aa9ce4a69d46a5",
+      "sequence": 3,
+      "modified": "2026-11-02T15:54:50+00:00"
     },
     "pdf-2026-wearable_devices-2026-11-04-1400@unisr-provisional": {
       "hash": "2dbac357495febd7f9e56bf8deee9b5699f104d42babb7eb995ff9b5de4abfa4",
@@ -2107,9 +2107,9 @@
       "modified": "2026-09-22T09:48:28+00:00"
     },
     "pdf-2026-machine_learning-2026-11-05-0900@unisr-provisional": {
-      "hash": "ee8c33c59fd4a19250fb16b82675b34597651a0fab3320cb44d4e97f5cdaf4c9",
-      "sequence": 2,
-      "modified": "2026-09-22T09:48:28+00:00"
+      "hash": "f3a8881383c3e1a28c372d32264570b4ef2a088ee33418b32044c9d53fc6c9cb",
+      "sequence": 3,
+      "modified": "2026-11-02T15:54:50+00:00"
     },
     "pdf-2026-radiomics-2026-11-05-1400@unisr-provisional": {
       "hash": "c1ee23fb5314ef545abbfd3c86d3cf935b7d71f01d032f3621876b376499f8bc",
@@ -2270,6 +2270,11 @@
       "hash": "0af3ea8c0e664dd31fb3037d496acc152225721e66882898ff2e9495c32efda9",
       "sequence": 0,
       "modified": "2026-10-30T12:58:20+00:00"
+    },
+    "orario-90d7ea212cddd51401020242@unisr": {
+      "hash": "7a7d5acf0f9767ec1ec44fe29a9eeb1f461a9fe2f64c5680f01c3bc9187027db",
+      "sequence": 0,
+      "modified": "2026-11-02T15:54:50+00:00"
     }
   },
   "orario_ids": {
@@ -2552,6 +2557,10 @@
     "human_machine_interaction|2026-10-30|09:00": {
       "group": "human_machine_interaction|2026-10-30",
       "uid": "orario-934046e3e556456fd621e8ea@unisr"
+    },
+    "machine_learning|2026-11-10|09:00": {
+      "group": "machine_learning|2026-11-10",
+      "uid": "orario-90d7ea212cddd51401020242@unisr"
     }
   },
   "official_aliases": {
